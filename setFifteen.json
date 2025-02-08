@@ -1,0 +1,1205 @@
+{
+  "setNumber": 15,
+  "cards": [
+    {
+      "id": "15-FOOD-0001",
+      "taboo_word": "Lamb Chops",
+      "hint_words": ["Meat", "Grilled", "Bone", "Tender"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0002",
+      "taboo_word": "Avocado Toast",
+      "hint_words": ["Breakfast", "Bread", "Green", "Healthy"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0003",
+      "taboo_word": "Crab Cakes",
+      "hint_words": ["Seafood", "Maryland", "Breaded", "Fried"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0004",
+      "taboo_word": "Bell Pepper",
+      "hint_words": ["Vegetable", "Red", "Green", "Crunchy"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0005",
+      "taboo_word": "Honeydew Melon",
+      "hint_words": ["Fruit", "Green", "Sweet", "Juicy"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0006",
+      "taboo_word": "Mozzarella Sticks",
+      "hint_words": ["Cheese", "Fried", "Marinara", "Crispy"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0007",
+      "taboo_word": "Basil Pesto",
+      "hint_words": ["Green", "Sauce", "Garlic", "Italian"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0008",
+      "taboo_word": "Roasted Garlic",
+      "hint_words": ["Oven", "Soft", "Aromatic", "Cloves"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0009",
+      "taboo_word": "Chocolate Truffle",
+      "hint_words": ["Dessert", "Rich", "Cocoa", "Sweet"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0010",
+      "taboo_word": "Scallops",
+      "hint_words": ["Seafood", "Shellfish", "Seared", "White"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0011",
+      "taboo_word": "Zucchini Bread",
+      "hint_words": ["Baked", "Loaf", "Moist", "Sweet"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0012",
+      "taboo_word": "Bruschetta",
+      "hint_words": ["Italian", "Bread", "Tomato", "Basil"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0013",
+      "taboo_word": "Chocolate Pudding",
+      "hint_words": ["Dessert", "Creamy", "Sweet", "Dark"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0014",
+      "taboo_word": "Tartar Sauce",
+      "hint_words": ["Condiment", "Seafood", "Creamy", "Pickle"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0015",
+      "taboo_word": "Sunflower Seeds",
+      "hint_words": ["Snack", "Small", "Shell", "Crunchy"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0016",
+      "taboo_word": "Brioche Bun",
+      "hint_words": ["Bread", "Soft", "French", "Buttery"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0017",
+      "taboo_word": "Chia Pudding",
+      "hint_words": ["Healthy", "Seeds", "Gelatinous", "Breakfast"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0018",
+      "taboo_word": "Cranberry Sauce",
+      "hint_words": ["Thanksgiving", "Tart", "Red", "Side Dish"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0019",
+      "taboo_word": "Cucumber Salad",
+      "hint_words": ["Cold", "Refreshing", "Dressing", "Green"],
+      "category": "Food"
+    },
+    {
+      "id": "15-FOOD-0020",
+      "taboo_word": "Egg Salad",
+      "hint_words": ["Sandwich", "Boiled", "Mayo", "Yellow"],
+      "category": "Food"
+    },
+    {
+      "id": "15-GEOG-0001",
+      "taboo_word": "Denmark",
+      "hint_words": ["Europe", "Copenhagen", "Vikings", "Hygge"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0002",
+      "taboo_word": "Cambodia",
+      "hint_words": ["Southeast Asia", "Phnom Penh", "Angkor Wat", "Khmer"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0003",
+      "taboo_word": "San Francisco",
+      "hint_words": ["USA", "Golden Gate", "California", "Bay Area"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0004",
+      "taboo_word": "Uruguay",
+      "hint_words": ["South America", "Montevideo", "Beaches", "Spanish"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0005",
+      "taboo_word": "Po River",
+      "hint_words": ["Italy", "Longest", "Valley", "Flow"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0006",
+      "taboo_word": "Mount Ararat",
+      "hint_words": ["Turkey", "Tallest", "Bible", "Snow"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0007",
+      "taboo_word": "Sarajevo",
+      "hint_words": ["Bosnia", "Capital", "History", "War"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0008",
+      "taboo_word": "Yemen",
+      "hint_words": ["Middle East", "Sana'a", "Conflict", "Historic"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0009",
+      "taboo_word": "Madeira",
+      "hint_words": ["Portugal", "Island", "Wine", "Atlantic"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0010",
+      "taboo_word": "Mohenjo Daro",
+      "hint_words": ["Pakistan", "Ancient", "Indus Valley", "Ruins"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0011",
+      "taboo_word": "Lake Winnipeg",
+      "hint_words": ["Canada", "Freshwater", "Prairie", "Fishing"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0012",
+      "taboo_word": "Barbados",
+      "hint_words": ["Caribbean", "Island", "Beaches", "Rihanna"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0013",
+      "taboo_word": "Rub' al Khali",
+      "hint_words": ["Arabian Peninsula", "Desert", "Sand", "Dunes"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0014",
+      "taboo_word": "Drakensberg Mountains",
+      "hint_words": ["South Africa", "Range", "Tallest", "Hiking"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0015",
+      "taboo_word": "Monaco",
+      "hint_words": ["Europe", "Smallest", "Casino", "Grand Prix"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0016",
+      "taboo_word": "Cyprus",
+      "hint_words": ["Mediterranean", "Island", "Divided", "Beaches"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0017",
+      "taboo_word": "Altai Mountains",
+      "hint_words": ["Asia", "Russia", "Mongolia", "Range"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0018",
+      "taboo_word": "Gulf of Mexico",
+      "hint_words": ["Water", "USA", "Oil", "Coast"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0019",
+      "taboo_word": "Teotihuacan",
+      "hint_words": ["Mexico", "Pyramids", "Ancient", "Tourism"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-GEOG-0020",
+      "taboo_word": "Bryce Canyon",
+      "hint_words": ["USA", "Utah", "Hoodoos", "Scenic"],
+      "category": "Geography"
+    },
+    {
+      "id": "15-ASTR-0001",
+      "taboo_word": "Tycho Brahe",
+      "hint_words": ["Astronomer", "Observations", "Planets", "Precise"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0002",
+      "taboo_word": "Arthur Eddington",
+      "hint_words": ["Star", "Gravity", "Light", "Theory"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0003",
+      "taboo_word": "Scott Kelly",
+      "hint_words": ["Astronaut", "Long-Duration", "Spaceflight", "USA"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0004",
+      "taboo_word": "Peggy Whitson",
+      "hint_words": ["Astronaut", "Record", "Space", "USA"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0005",
+      "taboo_word": "Apollo 14",
+      "hint_words": ["Moon mission", "Crew", "NASA", "Lunar"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0006",
+      "taboo_word": "Gemini 7",
+      "hint_words": ["Mission", "Spaceflight", "Crew", "USA"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0007",
+      "taboo_word": "Salyut",
+      "hint_words": ["Space Station", "Soviet", "Orbit", "Historic"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0008",
+      "taboo_word": "Mir",
+      "hint_words": ["Space Station", "Soviet", "Modular", "Orbit"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0009",
+      "taboo_word": "Meteor Crater",
+      "hint_words": ["Impact", "Arizona", "Bowl-shaped", "Fossil"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0010",
+      "taboo_word": "Halley's Comet",
+      "hint_words": ["Comet", "Periodic", "Tail", "Bright"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0011",
+      "taboo_word": "Helix Nebula",
+      "hint_words": ["Nebula", "Eye", "Cloud", "Stars"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0012",
+      "taboo_word": "Sea of Tranquility",
+      "hint_words": ["Lunar", "Mare", "Calm", "Apollo"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0013",
+      "taboo_word": "Celestial Navigation",
+      "hint_words": ["Direction", "Stars", "Compass", "Sailing"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0014",
+      "taboo_word": "Orbital Module",
+      "hint_words": ["Spacecraft", "Section", "Orbit", "Module"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0015",
+      "taboo_word": "Endeavour",
+      "hint_words": ["Shuttle", "Mission", "Reusable", "NASA"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0016",
+      "taboo_word": "Infrared Telescope",
+      "hint_words": ["Wavelength", "Detector", "Observatory", "Space"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0017",
+      "taboo_word": "Space Suit",
+      "hint_words": ["Protection", "Extravehicular", "Gear", "Astronaut"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0018",
+      "taboo_word": "Rocket Booster",
+      "hint_words": ["Propulsion", "Stage", "Lift-off", "Engine"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0019",
+      "taboo_word": "Edge of Space",
+      "hint_words": ["Kármán Line", "Boundary", "Atmosphere", "Space"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-ASTR-0020",
+      "taboo_word": "Star Map",
+      "hint_words": ["Chart", "Sky", "Navigation", "Celestial"],
+      "category": "Astronomy"
+    },
+    {
+      "id": "15-HIST-0001",
+      "taboo_word": "The Reformation",
+      "hint_words": ["Church", "Martin Luther", "Protestant", "95 Theses"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0002",
+      "taboo_word": "The New Deal",
+      "hint_words": ["FDR", "Depression", "Economy", "Programs"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0003",
+      "taboo_word": "The Wright Brothers",
+      "hint_words": ["Airplane", "Flight", "Kitty Hawk", "Aviation"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0004",
+      "taboo_word": "The Louisiana Purchase",
+      "hint_words": ["Thomas Jefferson", "Land", "France", "1803"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0005",
+      "taboo_word": "The Boxer Rebellion",
+      "hint_words": ["China", "Revolt", "Foreigners", "Uprising"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0006",
+      "taboo_word": "The Space Shuttle",
+      "hint_words": ["NASA", "Columbia", "Discovery", "Atlantis"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0007",
+      "taboo_word": "The Trojan War",
+      "hint_words": ["Greeks", "Troy", "Horse", "Homer"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0008",
+      "taboo_word": "The Korean War",
+      "hint_words": ["North", "South", "1950", "Truce"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0009",
+      "taboo_word": "The Iron Curtain",
+      "hint_words": ["Soviet", "Cold War", "Europe", "Communism"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0010",
+      "taboo_word": "The Trail of Tears",
+      "hint_words": ["Cherokee", "Forced", "Migration", "Andrew Jackson"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0011",
+      "taboo_word": "The Manhattan Project",
+      "hint_words": ["Atomic", "Bomb", "Scientists", "World War II"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0012",
+      "taboo_word": "The Spanish Flu",
+      "hint_words": ["Pandemic", "1918", "Influenza", "Millions"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0013",
+      "taboo_word": "The Congress of Vienna",
+      "hint_words": ["Napoleon", "Balance", "Europe", "1815"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0014",
+      "taboo_word": "The Louisiana Territory",
+      "hint_words": ["France", "Purchase", "Jefferson", "Expansion"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0015",
+      "taboo_word": "The Renaissance",
+      "hint_words": ["Art", "Science", "Italy", "Da Vinci"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0016",
+      "taboo_word": "The Atomic Bomb",
+      "hint_words": ["Hiroshima", "Nagasaki", "World War II", "Explosion"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0017",
+      "taboo_word": "The Great Migration",
+      "hint_words": ["African American", "Jobs", "North", "20th Century"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0018",
+      "taboo_word": "The Cuban Revolution",
+      "hint_words": ["Fidel Castro", "Communism", "1959", "Che Guevara"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0019",
+      "taboo_word": "The Emancipation Proclamation",
+      "hint_words": ["Lincoln", "Slaves", "Freedom", "1863"],
+      "category": "History"
+    },
+    {
+      "id": "15-HIST-0020",
+      "taboo_word": "The Marshall Plan",
+      "hint_words": ["Europe", "Recovery", "United States", "Aid"],
+      "category": "History"
+    },
+    {
+      "id": "15-HOLL-0001",
+      "taboo_word": "Jason Bateman",
+      "hint_words": ["Ozark", "Arrested Development", "Comedic", "Actor"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0002",
+      "taboo_word": "John Mulaney",
+      "hint_words": ["Stand-up", "Comedian", "SNL", "Voice Actor"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0003",
+      "taboo_word": "Trevor Noah",
+      "hint_words": ["The Daily Show", "Comedy", "South African", "Host"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0004",
+      "taboo_word": "Joe Rogan",
+      "hint_words": ["Podcast", "UFC", "Comedian", "Controversial"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0005",
+      "taboo_word": "Ryan Seacrest",
+      "hint_words": ["American Idol", "Host", "Radio", "TV Personality"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0006",
+      "taboo_word": "Andy Samberg",
+      "hint_words": ["Brooklyn Nine-Nine", "SNL", "Lonely Island", "Comedic"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0007",
+      "taboo_word": "Kris Jenner",
+      "hint_words": ["Reality TV", "Momager", "Keeping Up", "Business"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0008",
+      "taboo_word": "Zendaya",
+      "hint_words": ["Euphoria", "Dune", "Fashion", "Singer"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0009",
+      "taboo_word": "Ariana Grande",
+      "hint_words": ["Singer", "Nickelodeon", "Vocal Range", "Pop Star"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0010",
+      "taboo_word": "Tyra Banks",
+      "hint_words": ["America’s Next Top Model", "Supermodel", "Host", "Businesswoman"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0011",
+      "taboo_word": "Chrissy Teigen",
+      "hint_words": ["Model", "Social Media", "John Legend", "TV Personality"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0012",
+      "taboo_word": "Priyanka Chopra",
+      "hint_words": ["Bollywood", "Miss World", "Actress", "Singer"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0013",
+      "taboo_word": "Ratatouille",
+      "hint_words": ["Pixar", "Chef", "Mouse", "Cooking"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0014",
+      "taboo_word": "Inside Man",
+      "hint_words": ["Heist", "Thriller", "Bank", "Spike Lee"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0015",
+      "taboo_word": "Moana",
+      "hint_words": ["Disney", "Adventure", "Ocean", "Animated"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0016",
+      "taboo_word": "Coco",
+      "hint_words": ["Pixar", "Music", "Mexico", "Family"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0017",
+      "taboo_word": "The Devil Wears Prada",
+      "hint_words": ["Fashion", "Magazine", "Boss", "Meryl Streep"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0018",
+      "taboo_word": "A Beautiful Mind",
+      "hint_words": ["Math", "Genius", "Mental Health", "Oscar Winner"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0019",
+      "taboo_word": "Lena Dunham",
+      "hint_words": ["Girls", "Writer", "Actress", "Director"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-HOLL-0020",
+      "taboo_word": "Judd Apatow",
+      "hint_words": ["Comedy", "Director", "Producer", "Knocked Up"],
+      "category": "Hollywood"
+    },
+    {
+      "id": "15-BOLL-0001",
+      "taboo_word": "Ayushmann Khurrana",
+      "hint_words": ["Vicky Donor", "Andhadhun", "Versatile", "Singer"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0002",
+      "taboo_word": "Irrfan Khan",
+      "hint_words": ["Paan Singh Tomar", "The Lunchbox", "International Star", "Talented"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0003",
+      "taboo_word": "Richa Chadha",
+      "hint_words": ["Gangs of Wasseypur", "Fukrey", "Strong Roles", "Talented Actress"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0004",
+      "taboo_word": "Nimrat Kaur",
+      "hint_words": ["The Lunchbox", "Airlift", "Netflix", "Classy"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0005",
+      "taboo_word": "War",
+      "hint_words": ["Hrithik Roshan", "Tiger Shroff", "Action Thriller", "Spy"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0006",
+      "taboo_word": "Chennai Express",
+      "hint_words": ["Shah Rukh Khan", "Deepika Padukone", "Train", "Comedy"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0007",
+      "taboo_word": "Ek Villain",
+      "hint_words": ["Sidharth Malhotra", "Riteish Deshmukh", "Romantic Thriller", "Mohit Suri"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0008",
+      "taboo_word": "Gangaajal",
+      "hint_words": ["Ajay Devgn", "Corrupt Police", "Crime Drama", "Realistic"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0009",
+      "taboo_word": "Love Aaj Kal",
+      "hint_words": ["Saif Ali Khan", "Deepika Padukone", "Imtiaz Ali", "Time Travel"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0010",
+      "taboo_word": "Race",
+      "hint_words": ["Saif Ali Khan", "Betrayal", "Action Thriller", "Franchise"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0011",
+      "taboo_word": "Bhoot",
+      "hint_words": ["Horror", "Urmila Matondkar", "Ram Gopal Varma", "Scary"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0012",
+      "taboo_word": "Jism",
+      "hint_words": ["Bipasha Basu", "John Abraham", "Bold", "Sensual"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0013",
+      "taboo_word": "Murder",
+      "hint_words": ["Emraan Hashmi", "Thriller", "Betrayal", "Crime"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0014",
+      "taboo_word": "Singh Is Kinng",
+      "hint_words": ["Comedy", "Akshay Kumar", "Sardar", "Action"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0015",
+      "taboo_word": "Welcome",
+      "hint_words": ["Comedy", "Nana Patekar", "Paresh Rawal", "Akshay Kumar"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0016",
+      "taboo_word": "Kick",
+      "hint_words": ["Salman Khan", "Action", "Superhit", "Jacqueline Fernandez"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0017",
+      "taboo_word": "Gabbar Is Back",
+      "hint_words": ["Akshay Kumar", "Vigilante", "Corruption", "Action"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0018",
+      "taboo_word": "Raazi",
+      "hint_words": ["Alia Bhatt", "Spy Thriller", "Patriotism", "Pakistan"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0019",
+      "taboo_word": "Rowdy Rathore",
+      "hint_words": ["Akshay Kumar", "Action", "Double Role", "Mass Entertainer"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-BOLL-0020",
+      "taboo_word": "Airlift",
+      "hint_words": ["Akshay Kumar", "Kuwait", "Real Story", "Evacuation"],
+      "category": "Bollywood"
+    },
+    {
+      "id": "15-ARTS-0001",
+      "taboo_word": "Lady with an Ermine",
+      "hint_words": ["Leonardo da Vinci", "Portrait", "Renaissance", "Woman"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0002",
+      "taboo_word": "Taj Mahal",
+      "hint_words": ["India", "Marble", "Monument", "Mughal"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0003",
+      "taboo_word": "Courage the Cowardly Dog",
+      "hint_words": ["Pink", "Scared", "Cartoon", "Nowhere"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0004",
+      "taboo_word": "Arthur",
+      "hint_words": ["Aardvark", "PBS Kids", "Cartoon", "Library"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0005",
+      "taboo_word": "The Smurfs",
+      "hint_words": ["Blue", "Gargamel", "Village", "Cartoon"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0006",
+      "taboo_word": "Pinky and the Brain",
+      "hint_words": ["Mice", "Take Over the World", "Lab", "Cartoon"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0007",
+      "taboo_word": "Marquetry",
+      "hint_words": ["Wood", "Patterns", "Inlay", "Furniture"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0008",
+      "taboo_word": "Tattoo Ink",
+      "hint_words": ["Permanent", "Skin", "Needle", "Color"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0009",
+      "taboo_word": "Watercolor Pencils",
+      "hint_words": ["Blending", "Sketching", "Brush", "Wet"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0010",
+      "taboo_word": "Foil Art",
+      "hint_words": ["Shiny", "Embossed", "Metallic", "Decorative"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0011",
+      "taboo_word": "Adventure Time",
+      "hint_words": ["Finn", "Jake", "Cartoon", "Fantasy"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0012",
+      "taboo_word": "The Looney Tunes Show",
+      "hint_words": ["Bugs Bunny", "Daffy Duck", "Cartoon", "Comedy"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0013",
+      "taboo_word": "The Van Gogh Museum",
+      "hint_words": ["Amsterdam", "Dutch", "Paintings", "Sunflowers"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0014",
+      "taboo_word": "The Getty Villa",
+      "hint_words": ["California", "Ancient Art", "Sculptures", "Greek"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0015",
+      "taboo_word": "Sundance Film Festival",
+      "hint_words": ["Independent", "Movies", "Utah", "Awards"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0016",
+      "taboo_word": "Tango",
+      "hint_words": ["Argentina", "Dance", "Passionate", "Couple"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0017",
+      "taboo_word": "Constructivism",
+      "hint_words": ["Geometric", "Soviet", "Abstract", "20th Century"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0018",
+      "taboo_word": "Postmodernism",
+      "hint_words": ["Philosophy", "Art", "Rejection", "Modern"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0019",
+      "taboo_word": "Hand Shadow Art",
+      "hint_words": ["Light", "Animals", "Hands", "Silhouettes"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ARTS-0020",
+      "taboo_word": "Neuschwanstein Castle",
+      "hint_words": ["Germany", "Disney Inspiration", "Fairy Tale", "Tourist"],
+      "category": "Arts"
+    },
+    {
+      "id": "15-ANIM-0001",
+      "taboo_word": "Border Terrier",
+      "hint_words": ["Dog", "Small", "Energetic", "Scruffy"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0002",
+      "taboo_word": "Doberman Pinscher",
+      "hint_words": ["Dog", "Guard", "Athletic", "Loyal"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0003",
+      "taboo_word": "English Setter",
+      "hint_words": ["Dog", "Spotted", "Hunting", "Elegant"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0004",
+      "taboo_word": "Rough Collie",
+      "hint_words": ["Dog", "Long Hair", "Herding", "Lassie"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0005",
+      "taboo_word": "Miniature Schnauzer",
+      "hint_words": ["Dog", "Small", "Beard", "Smart"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0006",
+      "taboo_word": "Manatee",
+      "hint_words": ["Sea Cow", "Gentle", "Slow", "Water"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0007",
+      "taboo_word": "Tapir",
+      "hint_words": ["Jungle", "Herbivore", "Odd Nose", "South America"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0008",
+      "taboo_word": "Capybara",
+      "hint_words": ["Rodent", "Water", "Largest", "Social"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0009",
+      "taboo_word": "Pangolin",
+      "hint_words": ["Scales", "Nocturnal", "Insects", "Endangered"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0010",
+      "taboo_word": "Dingo",
+      "hint_words": ["Australia", "Wild Dog", "Hunter", "Pack"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0011",
+      "taboo_word": "Harpy Eagle",
+      "hint_words": ["Bird", "Large", "Tropical", "Predator"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0012",
+      "taboo_word": "Woodpecker",
+      "hint_words": ["Tree", "Peck", "Beak", "Forest"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0013",
+      "taboo_word": "Finch",
+      "hint_words": ["Small", "Bird", "Sing", "Colorful"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0014",
+      "taboo_word": "Albatross",
+      "hint_words": ["Bird", "Ocean", "Wingspan", "Soar"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0015",
+      "taboo_word": "Basilisk Lizard",
+      "hint_words": ["Lizard", "Run on Water", "Fast", "Green"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0016",
+      "taboo_word": "Monitor Lizard",
+      "hint_words": ["Large", "Predator", "Sharp Claws", "Jungle"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0017",
+      "taboo_word": "Nautilus",
+      "hint_words": ["Shell", "Ocean", "Deep Sea", "Tentacles"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0018",
+      "taboo_word": "Sea Anemone",
+      "hint_words": ["Tentacles", "Clownfish", "Ocean", "Colorful"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0019",
+      "taboo_word": "Planaria",
+      "hint_words": ["Flatworm", "Regeneration", "Tiny", "Water"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-ANIM-0020",
+      "taboo_word": "Horseshoe Crab",
+      "hint_words": ["Ocean", "Ancient", "Hard Shell", "Blue Blood"],
+      "category": "Animals"
+    },
+    {
+      "id": "15-MUSI-0001",
+      "taboo_word": "Demi Lovato",
+      "hint_words": ["Skyscraper", "Cool for the Summer", "Heart Attack", "Disney"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0002",
+      "taboo_word": "Lionel Richie",
+      "hint_words": ["Hello", "All Night Long", "The Commodores", "Ballads"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0003",
+      "taboo_word": "Gloria Estefan",
+      "hint_words": ["Conga", "Rhythm is Gonna Get You", "Miami Sound Machine", "Latin Pop"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0004",
+      "taboo_word": "Gioachino Rossini",
+      "hint_words": ["The Barber of Seville", "Classical", "Italian", "Composer"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0005",
+      "taboo_word": "The Doobie Brothers",
+      "hint_words": ["Listen to the Music", "70s Rock", "Long Train Runnin'", "Michael McDonald"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0006",
+      "taboo_word": "The Yardbirds",
+      "hint_words": ["Eric Clapton", "For Your Love", "British Rock", "60s"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0007",
+      "taboo_word": "Snow Patrol",
+      "hint_words": ["Chasing Cars", "Run", "Alternative Rock", "2000s"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0008",
+      "taboo_word": "Of Monsters and Men",
+      "hint_words": ["Little Talks", "Indie Rock", "Iceland", "Folk"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0009",
+      "taboo_word": "Triangle",
+      "hint_words": ["Percussion", "Metal", "Ding", "Orchestra"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0010",
+      "taboo_word": "Castanets",
+      "hint_words": ["Flamenco", "Percussion", "Spanish", "Click"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0011",
+      "taboo_word": "Ska",
+      "hint_words": ["Jamaican", "Offbeat Rhythm", "Reggae Influence", "Upbeat"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0012",
+      "taboo_word": "Nas",
+      "hint_words": ["Illmatic", "New York", "Hip-Hop", "Rapper"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0013",
+      "taboo_word": "Eye in the Sky",
+      "hint_words": ["The Alan Parsons Project", "80s", "Soft Rock", "Classic"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0014",
+      "taboo_word": "I Will Always Love You",
+      "hint_words": ["Whitney Houston", "The Bodyguard", "Power Ballad", "Classic"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0015",
+      "taboo_word": "Drops of Jupiter",
+      "hint_words": ["Train", "2001", "Alternative Rock", "Melodic"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0016",
+      "taboo_word": "Boulevard of Broken Dreams",
+      "hint_words": ["Green Day", "2004", "Alternative Rock", "American Idiot"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0017",
+      "taboo_word": "Take a Bow",
+      "hint_words": ["Rihanna", "Ballad", "2008", "Breakup Song"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0018",
+      "taboo_word": "Viva Forever",
+      "hint_words": ["Spice Girls", "90s", "Ballad", "Goodbye"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0019",
+      "taboo_word": "Ocean Eyes",
+      "hint_words": ["Billie Eilish", "2016", "Soft Vocals", "Dreamy"],
+      "category": "Music"
+    },
+    {
+      "id": "15-MUSI-0020",
+      "taboo_word": "Wake Me Up",
+      "hint_words": ["Avicii", "EDM", "2013", "Aloe Blacc"],
+      "category": "Music"
+    },
+    {
+      "id": "15-SCIE-0001",
+      "taboo_word": "Electric Toothbrush",
+      "hint_words": ["Teeth", "Battery", "Oral", "Brush"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0002",
+      "taboo_word": "Microwave Oven",
+      "hint_words": ["Kitchen", "Heat", "Appliance", "Food"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0003",
+      "taboo_word": "E-Ink",
+      "hint_words": ["Screen", "Kindle", "Display", "Technology"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0004",
+      "taboo_word": "Infrared Camera",
+      "hint_words": ["Heat", "Vision", "Night", "Detect"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0005",
+      "taboo_word": "Virtual Reality",
+      "hint_words": ["Headset", "Simulation", "3D", "Gaming"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0006",
+      "taboo_word": "Arsenic",
+      "hint_words": ["Poison", "Element", "Chemical", "Toxic"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0007",
+      "taboo_word": "Radium",
+      "hint_words": ["Radioactive", "Element", "Marie Curie", "Glow"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0008",
+      "taboo_word": "Silicon",
+      "hint_words": ["Semiconductor", "Chips", "Element", "Computers"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0009",
+      "taboo_word": "Knee",
+      "hint_words": ["Joint", "Leg", "Bend", "Patella"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0010",
+      "taboo_word": "Wrist",
+      "hint_words": ["Hand", "Joint", "Watch", "Bones"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0011",
+      "taboo_word": "Forehead",
+      "hint_words": ["Face", "Head", "Above", "Eyebrows"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0012",
+      "taboo_word": "Thigh",
+      "hint_words": ["Leg", "Upper", "Bone", "Femur"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0013",
+      "taboo_word": "Palm",
+      "hint_words": ["Hand", "Lines", "Fingers", "Grasp"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0014",
+      "taboo_word": "Facial Recognition",
+      "hint_words": ["AI", "Security", "Scan", "Face"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0015",
+      "taboo_word": "Cloud Storage",
+      "hint_words": ["Data", "Internet", "Save", "Backup"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0016",
+      "taboo_word": "Digital Assistant",
+      "hint_words": ["Alexa", "Siri", "Voice", "AI"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0017",
+      "taboo_word": "Autonomous Drone",
+      "hint_words": ["Flying", "Self", "AI", "Surveillance"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0018",
+      "taboo_word": "5G Network",
+      "hint_words": ["Wireless", "Speed", "Internet", "Technology"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0019",
+      "taboo_word": "Electric Bicycle",
+      "hint_words": ["Bike", "Battery", "Pedal", "Motor"],
+      "category": "Science"
+    },
+    {
+      "id": "15-SCIE-0020",
+      "taboo_word": "Smart Glasses",
+      "hint_words": ["Wearable", "Technology", "Augmented", "Vision"],
+      "category": "Science"
+    }
+  ]
+}
