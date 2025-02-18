@@ -9,8 +9,8 @@
     },
     {
       "id": "03-FOOD-0002",
-      "taboo_word": "Bagel",
-      "hint_words": ["Round", "Bread", "Cream Cheese", "Breakfast"],
+      "taboo_word": "Pepsi",
+      "hint_words": ["Black", "Fizzy", "Carbonated", "Soda"],
       "category": "Food"
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "id": "03-FOOD-0005",
-      "taboo_word": "Turkey",
-      "hint_words": ["Bird", "Thanksgiving", "Meat", "Roast"],
+      "taboo_word": "Sparkling Water",
+      "hint_words": ["Fizzy", "Carbonated", "Club Soda", "Topo Chico"],
       "category": "Food"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "id": "03-FOOD-0013",
-      "taboo_word": "Cabbage",
-      "hint_words": ["Green", "Vegetable", "Leafy", "Crunchy"],
+      "taboo_word": "Sunkist",
+      "hint_words": ["Orange", "Carbonated", "Soda", "Fizzy"],
       "category": "Food"
     },
     {

@@ -39,8 +39,8 @@
     },
     {
       "id": "12-FOOD-0007",
-      "taboo_word": "Bran Muffin",
-      "hint_words": ["Fiber", "Baked", "Healthy", "Breakfast"],
+      "taboo_word": "Diet Coke",
+      "hint_words": ["Coca-Cola", "Carbonated", "Healthy", "Zero Calories"],
       "category": "Food"
     },
     {
@@ -57,20 +57,20 @@
     },
     {
       "id": "12-FOOD-0010",
-      "taboo_word": "Ziti",
-      "hint_words": ["Pasta", "Baked", "Italian", "Sauce"],
+      "taboo_word": "Matcha",
+      "hint_words": ["Green", "Japanese", "Healthy", "Tea"],
       "category": "Food"
     },
     {
       "id": "12-FOOD-0011",
-      "taboo_word": "Alfredo Sauce",
-      "hint_words": ["Creamy", "Pasta", "Cheese", "White"],
+      "taboo_word": "Fanta",
+      "hint_words": ["Orange", "Soda", "Fizzy", "Sweet"],
       "category": "Food"
     },
     {
       "id": "12-FOOD-0012",
-      "taboo_word": "Raspberry Jam",
-      "hint_words": ["Fruit", "Spread", "Sweet", "Bread"],
+      "taboo_word": "Soju",
+      "hint_words": ["Korean", "Alcohol", "Rice", "Smooth"],
       "category": "Food"
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "id": "12-FOOD-0018",
-      "taboo_word": "Sweet Corn",
-      "hint_words": ["Yellow", "Cob", "Grill", "Butter"],
+      "taboo_word": "Doner Kebab",
+      "hint_words": ["Turkish", "Grilled", "Meat", "Flatbread"],
       "category": "Food"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "id": "12-FOOD-0020",
-      "taboo_word": "Mango Lassi",
-      "hint_words": ["Indian", "Drink", "Yogurt", "Fruit"],
+      "taboo_word": "Johny Walker",
+      "hint_words": ["Whiskey", "Black Label", "Scotch", "Alcohol"],
       "category": "Food"
     },
     {

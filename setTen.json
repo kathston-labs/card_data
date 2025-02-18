@@ -3,14 +3,14 @@
   "cards": [
     {
       "id": "10-FOOD-0001",
-      "taboo_word": "Grilled Cheese",
-      "hint_words": ["Melted", "Sandwich", "Butter", "Bread"],
+      "taboo_word": "IPA",
+      "hint_words": ["Beer", "Strong", "Pale Ale", "India"],
       "category": "Food"
     },
     {
       "id": "10-FOOD-0002",
-      "taboo_word": "Focaccia",
-      "hint_words": ["Italian", "Bread", "Olive Oil", "Herbs"],
+      "taboo_word": "Corona",
+      "hint_words": ["Beer", "Mexican", "Extra", "Alcohol"],
       "category": "Food"
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "id": "10-FOOD-0015",
-      "taboo_word": "Mashed Potatoes",
-      "hint_words": ["Creamy", "Butter", "Side Dish", "Soft"],
+      "taboo_word": "Vodka",
+      "hint_words": ["Russian", "Alcohol", "Smirnoff", "Grey Goose"],
       "category": "Food"
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "id": "10-FOOD-0019",
-      "taboo_word": "Caesar Salad",
-      "hint_words": ["Lettuce", "Dressing", "Croutons", "Parmesan"],
+      "taboo_word": "7 UP",
+      "hint_words": ["Carbonated", "Lemon-lime", "Soda", "Green"],
       "category": "Food"
     },
     {

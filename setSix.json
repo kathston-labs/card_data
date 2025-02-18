@@ -21,8 +21,8 @@
     },
     {
       "id": "06-FOOD-0004",
-      "taboo_word": "Paella",
-      "hint_words": ["Spanish", "Rice", "Seafood", "Saffron"],
+      "taboo_word": "Root Beer",
+      "hint_words": ["Non-alcoholic", "A&W", "Carbonated", "Sweet"],
       "category": "Food"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "id": "06-FOOD-0010",
-      "taboo_word": "Ceviche",
-      "hint_words": ["Seafood", "Lime", "Raw", "Peruvian"],
+      "taboo_word": "Iced Tea",
+      "hint_words": ["Drink", "Sweet", "Chilled", "Cold"],
       "category": "Food"
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "id": "06-FOOD-0017",
-      "taboo_word": "Goulash",
-      "hint_words": ["Hungarian", "Stew", "Beef", "Paprika"],
+      "taboo_word": "Carlsberg",
+      "hint_words": ["Beer", "Danish", "European", "Green"],
       "category": "Food"
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "id": "06-FOOD-0019",
-      "taboo_word": "Miso Soup",
-      "hint_words": ["Japanese", "Soybean", "Broth", "Tofu"],
+      "taboo_word": "Gin",
+      "hint_words": ["Alcohol", "Distilled", "Clear", "Juniper Berries"],
       "category": "Food"
     },
     {

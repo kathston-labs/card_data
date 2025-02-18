@@ -27,8 +27,8 @@
     },
     {
       "id": "15-FOOD-0005",
-      "taboo_word": "Honeydew Melon",
-      "hint_words": ["Fruit", "Green", "Sweet", "Juicy"],
+      "taboo_word": "Merlot",
+      "hint_words": ["Red Wine", "Grape", "France", "Dry"],
       "category": "Food"
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "id": "15-FOOD-0007",
-      "taboo_word": "Basil Pesto",
-      "hint_words": ["Green", "Sauce", "Garlic", "Italian"],
+      "taboo_word": "Dr. Pepper",
+      "hint_words": ["Black", "Cherry", "Carbonated", "Fizzy"],
       "category": "Food"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "id": "15-FOOD-0011",
-      "taboo_word": "Zucchini Bread",
-      "hint_words": ["Baked", "Loaf", "Moist", "Sweet"],
+      "taboo_word": "Moonshine",
+      "hint_words": ["Homemade", "Illegal", "High Alcohol", "Night"],
       "category": "Food"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "id": "15-FOOD-0013",
-      "taboo_word": "Chocolate Pudding",
-      "hint_words": ["Dessert", "Creamy", "Sweet", "Dark"],
+      "taboo_word": "Cappuccino",
+      "hint_words": ["Espresso", "Coffee", "Milk", "Foam"],
       "category": "Food"
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "id": "15-FOOD-0017",
-      "taboo_word": "Chia Pudding",
-      "hint_words": ["Healthy", "Seeds", "Gelatinous", "Breakfast"],
+      "taboo_word": "Espresso",
+      "hint_words": ["Coffee", "Italian", "Strong", "Bitter"],
       "category": "Food"
     },
     {

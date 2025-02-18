@@ -3,8 +3,8 @@
   "cards": [
     {
       "id": "08-FOOD-0001",
-      "taboo_word": "Gnocchi",
-      "hint_words": ["Italian", "Potato", "Pasta", "Dumpling"],
+      "taboo_word": "Budweiser",
+      "hint_words": ["American", "Beer", "Bud", "Red"],
       "category": "Food"
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "id": "08-FOOD-0006",
-      "taboo_word": "Borscht",
-      "hint_words": ["Soup", "Beet", "Russian", "Red"],
+      "taboo_word": "Ginger Ale",
+      "hint_words": ["Non-alcoholic", "Green", "Carbonated", "Mixer"],
       "category": "Food"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "id": "08-FOOD-0008",
-      "taboo_word": "Marzipan",
-      "hint_words": ["Almond", "Sweet", "Candy", "Pastry"],
+      "taboo_word": "Martini",
+      "hint_words": ["Alcohol", "Cocktail", "Gin", "Olive"],
       "category": "Food"
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "id": "08-FOOD-0017",
-      "taboo_word": "Graham Cracker",
-      "hint_words": ["Snack", "S'mores", "Honey", "Crunchy"],
+      "taboo_word": "Guinness",
+      "hint_words": ["Irish", "Beer", "Dark", "World Record"],
       "category": "Food"
     },
     {
