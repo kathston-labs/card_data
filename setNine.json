@@ -3,14 +3,14 @@
   "cards": [
     {
       "id": "09-FOOD-0001",
-      "taboo_word": "Pavlova",
-      "hint_words": ["Dessert", "Meringue", "Fruit", "Australia"],
+      "taboo_word": "Margarita",
+      "hint_words": ["Alcohol", "Drink", "Lemon", "Cocktail"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0002",
-      "taboo_word": "Halloumi",
-      "hint_words": ["Cheese", "Grill", "Cyprus", "Salty"],
+      "taboo_word": "Wine",
+      "hint_words": ["Red", "Grapes", "Alcohol", "Bottle"],
       "category": "Food"
     },
     {
@@ -21,26 +21,26 @@
     },
     {
       "id": "09-FOOD-0004",
-      "taboo_word": "Chimichurri",
-      "hint_words": ["Sauce", "Argentina", "Herbs", "Garlic"],
+      "taboo_word": "Latte",
+      "hint_words": ["Coffee", "Espresso", "Steamed Milk", "Foam"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0005",
-      "taboo_word": "Black Pudding",
-      "hint_words": ["Sausage", "British", "Blood", "Breakfast"],
+      "taboo_word": "Mountain Dew",
+      "hint_words": ["Green", "Soda", "Carbonated", "Fizzy"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0006",
-      "taboo_word": "Lobster Roll",
-      "hint_words": ["Seafood", "Sandwich", "Maine", "Butter"],
+      "taboo_word": "Lobster",
+      "hint_words": ["Seafood", "Expensive", "Maine", "Crustacean"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0007",
-      "taboo_word": "Kimchi Fried Rice",
-      "hint_words": ["Korean", "Spicy", "Egg", "Fermented"],
+      "taboo_word": "Chardonnay",
+      "hint_words": ["White Wine", "Dry", "French", "Sparkling"],
       "category": "Food"
     },
     {
@@ -81,38 +81,38 @@
     },
     {
       "id": "09-FOOD-0014",
-      "taboo_word": "Polenta",
-      "hint_words": ["Cornmeal", "Italian", "Creamy", "Grilled"],
+      "taboo_word": "Bourbon",
+      "hint_words": ["Whiskey", "American", "Street", "Corn"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0015",
-      "taboo_word": "Souvlaki",
-      "hint_words": ["Greek", "Grill", "Meat", "Skewer"],
+      "taboo_word": "Chicken Tikka",
+      "hint_words": ["Meat", "Indian", "Skewer", "Masala"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0016",
-      "taboo_word": "Cassoulet",
-      "hint_words": ["French", "Beans", "Slow Cooked", "Meat"],
+      "taboo_word": "Milk",
+      "hint_words": ["Cow", "White", "Dairy", "Drink"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0017",
-      "taboo_word": "Arepa",
-      "hint_words": ["Corn", "Venezuelan", "Grill", "Sandwich"],
+      "taboo_word": "Sprite",
+      "hint_words": ["Clear", "Fizzy", "Soda", "Carbonated"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0018",
-      "taboo_word": "Aioli",
-      "hint_words": ["Garlic", "Mayonnaise", "Sauce", "French"],
+      "taboo_word": "Coca-Cola",
+      "hint_words": ["Soda", "Black", "Coke", "Fizzy"],
       "category": "Food"
     },
     {
       "id": "09-FOOD-0019",
-      "taboo_word": "Moules Frites",
-      "hint_words": ["Mussels", "Belgium", "Fries", "Seafood"],
+      "taboo_word": "Brandy",
+      "hint_words": ["Alcohol", "Distilled Wine", "Liquor", "Cognac"],
       "category": "Food"
     },
     {

@@ -51,8 +51,8 @@
     },
     {
       "id": "14-FOOD-0009",
-      "taboo_word": "Mango Chutney",
-      "hint_words": ["Indian", "Sweet", "Spicy", "Condiment"],
+      "taboo_word": "Whiskey",
+      "hint_words": ["Scotch", "Alcohol", "Tennessee", "Jack Daniels"],
       "category": "Food"
     },
     {
@@ -63,14 +63,14 @@
     },
     {
       "id": "14-FOOD-0011",
-      "taboo_word": "Lasagna Soup",
-      "hint_words": ["Pasta", "Tomato", "Cheese", "Broth"],
+      "taboo_word": "Champagne",
+      "hint_words": ["Celebration", "Alcohol", "Sparkling Wine", "Pop"],
       "category": "Food"
     },
     {
       "id": "14-FOOD-0012",
-      "taboo_word": "Dried Apricot",
-      "hint_words": ["Fruit", "Orange", "Chewy", "Snack"],
+      "taboo_word": "Hot Chocolate",
+      "hint_words": ["Milk", "Warm", "Drink", "Cocoa"],
       "category": "Food"
     },
     {
@@ -93,20 +93,20 @@
     },
     {
       "id": "14-FOOD-0016",
-      "taboo_word": "Peanut Brittle",
-      "hint_words": ["Candy", "Crunchy", "Sweet", "Nuts"],
+      "taboo_word": "Mimosa",
+      "hint_words": ["Cocktail", "Sparkling Wine", "Orange Juice", "Yellow"],
       "category": "Food"
     },
     {
       "id": "14-FOOD-0017",
-      "taboo_word": "Butternut Squash",
-      "hint_words": ["Vegetable", "Orange", "Soup", "Fall"],
+      "taboo_word": "Squirt",
+      "hint_words": ["Carbonated", "Grapefruit", "Soda", "Citrus"],
       "category": "Food"
     },
     {
       "id": "14-FOOD-0018",
-      "taboo_word": "Ricotta Pancakes",
-      "hint_words": ["Breakfast", "Fluffy", "Cheese", "Stack"],
+      "taboo_word": "Jagermeister",
+      "hint_words": ["Jager Bomb", "German", "Liqueur", "Alcohol"],
       "category": "Food"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "id": "14-FOOD-0020",
-      "taboo_word": "Strawberry Shortcake",
-      "hint_words": ["Dessert", "Sweet", "Whipped Cream", "Biscuits"],
+      "taboo_word": "Burrito",
+      "hint_words": ["Mexican", "Tortilla", "Beans", "Wrap"],
       "category": "Food"
     },
     {

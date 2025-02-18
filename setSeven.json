@@ -39,8 +39,8 @@
     },
     {
       "id": "07-FOOD-0007",
-      "taboo_word": "Tempeh",
-      "hint_words": ["Soybean", "Protein", "Fermented", "Indonesia"],
+      "taboo_word": "Tequila",
+      "hint_words": ["Mexican", "Alcohol", "Agave", "Patron"],
       "category": "Food"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "id": "07-FOOD-0013",
-      "taboo_word": "Minestrone",
-      "hint_words": ["Soup", "Italian", "Vegetables", "Tomato"],
+      "taboo_word": "Rum",
+      "hint_words": ["Liquor", "Bacardi", "Alcohol", "Carribean"],
       "category": "Food"
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "id": "07-FOOD-0015",
-      "taboo_word": "Ricotta",
-      "hint_words": ["Cheese", "Italian", "Soft", "White"],
+      "taboo_word": "Hennessy",
+      "hint_words": ["Cognac", "Alcohol", "Popular", "French"],
       "category": "Food"
     },
     {
@@ -111,14 +111,14 @@
     },
     {
       "id": "07-FOOD-0019",
-      "taboo_word": "Tapioca",
-      "hint_words": ["Pearls", "Pudding", "Boba", "Starch"],
+      "taboo_word": "Gyro",
+      "hint_words": ["Greek", "Meat", "Pita", "Tzatziki"],
       "category": "Food"
     },
     {
       "id": "07-FOOD-0020",
-      "taboo_word": "Bruschetta",
-      "hint_words": ["Italian", "Bread", "Tomato", "Garlic"],
+      "taboo_word": "Kool-Aid",
+      "hint_words": ["Kids", "Packet", "Rainbow", "Drink Mix"],
       "category": "Food"
     },
     {

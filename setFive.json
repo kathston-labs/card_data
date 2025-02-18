@@ -39,8 +39,8 @@
     },
     {
       "id": "05-FOOD-0007",
-      "taboo_word": "Starfruit",
-      "hint_words": ["Tropical", "Yellow", "Star Shape", "Juicy"],
+      "taboo_word": "Pad Thai",
+      "hint_words": ["Thailand", "Stir-fried", "Rice", "Noodles"],
       "category": "Food"
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "id": "05-FOOD-0009",
-      "taboo_word": "Mace",
-      "hint_words": ["Spice", "Nutmeg", "Orange", "Aromatic"],
+      "taboo_word": "Cocktail",
+      "hint_words": ["Alcohol", "Mixed", "Gin", "Rum"],
       "category": "Food"
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "id": "05-FOOD-0012",
-      "taboo_word": "Cassava",
-      "hint_words": ["Root", "Tapioca", "Starch", "Tropical"],
+      "taboo_word": "Tea",
+      "hint_words": ["Leaves", "Morning", "Green", "Milk"],
       "category": "Food"
     },
     {
@@ -87,26 +87,26 @@
     },
     {
       "id": "05-FOOD-0015",
-      "taboo_word": "Cactus Pear",
-      "hint_words": ["Fruit", "Pink", "Prickly", "Sweet"],
+      "taboo_word": "Kombucha",
+      "hint_words": ["Fermented", "Probiotic", "Healthy", "Gut"],
       "category": "Food"
     },
     {
       "id": "05-FOOD-0016",
-      "taboo_word": "Caper",
-      "hint_words": ["Small", "Pickled", "Mediterranean", "Salty"],
+      "taboo_word": "Topo Chico",
+      "hint_words": ["Mexican", "Soda", "Carbonated", "Zero Calories"],
       "category": "Food"
     },
     {
       "id": "05-FOOD-0017",
-      "taboo_word": "Horseradish",
-      "hint_words": ["Spicy", "Root", "White", "Sauce"],
+      "taboo_word": "Cabernet Sauvignon",
+      "hint_words": ["Red Wine", "Grape", "Dry", "French"],
       "category": "Food"
     },
     {
       "id": "05-FOOD-0018",
-      "taboo_word": "Sorrel",
-      "hint_words": ["Leafy", "Green", "Sour", "Herb"],
+      "taboo_word": "Mai Tai",
+      "hint_words": ["Cocktail", "Alcohol", "Fruity", "Rum"],
       "category": "Food"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "id": "05-FOOD-0020",
-      "taboo_word": "Elderberry",
-      "hint_words": ["Berry", "Dark", "Syrup", "Immunity"],
+      "taboo_word": "Beer",
+      "hint_words": ["Alcohol", "Carbonated", "Can", "Belly"],
       "category": "Food"
     },
     {

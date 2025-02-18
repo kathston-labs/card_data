@@ -15,14 +15,14 @@
     },
     {
       "id": "02-FOOD-0003",
-      "taboo_word": "Salmon",
-      "hint_words": ["Fish", "Pink", "Seafood", "Grill"],
+      "taboo_word": "Bloody Mary",
+      "hint_words": ["Vodka", "Tomato", "Alcohol", "Spice"],
       "category": "Food"
     },
     {
       "id": "02-FOOD-0004",
-      "taboo_word": "Rice",
-      "hint_words": ["Grain", "White", "Cook", "Bowl"],
+      "taboo_word": "Jack Daniels",
+      "hint_words": ["Whiskey", "Tennessee", "Barrel", "Alcohol"],
       "category": "Food"
     },
     {

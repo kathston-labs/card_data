@@ -75,8 +75,8 @@
     },
     {
       "id": "04-FOOD-0013",
-      "taboo_word": "Goji Berry",
-      "hint_words": ["Red", "Superfood", "Dried", "Chinese"],
+      "taboo_word": "Heineken",
+      "hint_words": ["Beer", "Dutch", "European", "Green"],
       "category": "Food"
     },
     {
@@ -93,20 +93,20 @@
     },
     {
       "id": "04-FOOD-0016",
-      "taboo_word": "Persimmon",
-      "hint_words": ["Fruit", "Orange", "Sweet", "Autumn"],
+      "taboo_word": "Mojito",
+      "hint_words": ["Cocktail", "Cuba", "Rum", "Lime Juice"],
       "category": "Food"
     },
     {
       "id": "04-FOOD-0017",
-      "taboo_word": "Watercress",
-      "hint_words": ["Leafy", "Green", "Peppery", "Salad"],
+      "taboo_word": "Gatorade",
+      "hint_words": ["Electrolyes", "Athletes", "Sports", "Hydration"],
       "category": "Food"
     },
     {
       "id": "04-FOOD-0018",
-      "taboo_word": "Parsnip",
-      "hint_words": ["Root", "White", "Vegetable", "Soup"],
+      "taboo_word": "Chai",
+      "hint_words": ["Tea", "Indian", "Latte", "Drink"],
       "category": "Food"
     },
     {

@@ -21,8 +21,8 @@
     },
     {
       "id": "13-FOOD-0004",
-      "taboo_word": "Pine Nut",
-      "hint_words": ["Nut", "Small", "Pesto", "Seed"],
+      "taboo_word": "Pina Colada",
+      "hint_words": ["Pineapple", "Cocktail", "Rum", "Coconut"],
       "category": "Food"
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "id": "13-FOOD-0007",
-      "taboo_word": "Eggplant Parmesan",
-      "hint_words": ["Italian", "Baked", "Tomato Sauce", "Cheese"],
+      "taboo_word": "Eggplant",
+      "hint_words": ["Vegetable", "Purple", "Parmesan", "Bitter"],
       "category": "Food"
     },
     {
@@ -57,14 +57,14 @@
     },
     {
       "id": "13-FOOD-0010",
-      "taboo_word": "Chocolate Mousse",
-      "hint_words": ["Dessert", "Creamy", "Sweet", "Whipped"],
+      "taboo_word": "Mocha",
+      "hint_words": ["Espresso", "Chocolate", "Milk", "Cream"],
       "category": "Food"
     },
     {
       "id": "13-FOOD-0011",
-      "taboo_word": "Graham Cracker",
-      "hint_words": ["S'mores", "Honey", "Crunchy", "Snack"],
+      "taboo_word": "Stella Artois",
+      "hint_words": ["Beer", "Belgian", "European", "White"],
       "category": "Food"
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "id": "13-FOOD-0014",
-      "taboo_word": "Carrot Cake",
-      "hint_words": ["Dessert", "Cream Cheese", "Spiced", "Baked"],
+      "taboo_word": "Orange Juice",
+      "hint_words": ["Breakfast", "Fruit", "Squeezed", "Healthy"],
       "category": "Food"
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "id": "13-FOOD-0019",
-      "taboo_word": "Yogurt Parfait",
-      "hint_words": ["Breakfast", "Layered", "Fruit", "Granola"],
+      "taboo_word": "Boba Tea",
+      "hint_words": ["Bubble", "Milk", "Tapioca", "Pearls"],
       "category": "Food"
     },
     {
