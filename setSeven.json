@@ -159,8 +159,8 @@
     },
     {
       "id": "07-GEOG-0007",
-      "taboo_word": "London",
-      "hint_words": ["England", "Capital", "Big Ben", "City"],
+      "taboo_word": "Leicester",
+      "hint_words": ["England", "Foxes", "Richard", "Midlands"],
       "category": "Geography"
     },
     {
@@ -189,8 +189,8 @@
     },
     {
       "id": "07-GEOG-0012",
-      "taboo_word": "Moscow",
-      "hint_words": ["Russia", "Capital", "Red Square", "Kremlin"],
+      "taboo_word": "Zimbabwe",
+      "hint_words": ["Africa", "Victoria Falls", "Harare", "South"],
       "category": "Geography"
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "id": "07-GEOG-0014",
-      "taboo_word": "Pyramids of Giza",
-      "hint_words": ["Egypt", "Ancient", "Pyramids", "Pharaohs"],
+      "taboo_word": "Raleigh",
+      "hint_words": ["North Carolina", "Capital", "Research", "Technology"],
       "category": "Geography"
     },
     {
@@ -213,8 +213,8 @@
     },
     {
       "id": "07-GEOG-0016",
-      "taboo_word": "Lake Geneva",
-      "hint_words": ["Switzerland", "Water", "Lakeside", "Switzerland"],
+      "taboo_word": "Lake Tahoe",
+      "hint_words": ["California", "Big", "Mountains", "Skiing"],
       "category": "Geography"
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "id": "07-GEOG-0018",
-      "taboo_word": "Madrid",
-      "hint_words": ["Spain", "Capital", "Flamenco", "City"],
+      "taboo_word": "Melbourne",
+      "hint_words": ["Australia", "AFL", "Yarra", "Victoria"],
       "category": "Geography"
     },
     {
@@ -250,7 +250,12 @@
     {
       "id": "07-ASTR-0002",
       "taboo_word": "Nicolaus Copernicus",
-      "hint_words": ["Heliocentric", "Renaissance", "Astronomy", "Poland/Italy"],
+      "hint_words": [
+        "Heliocentric",
+        "Renaissance",
+        "Astronomy",
+        "Poland/Italy"
+      ],
       "category": "Astronomy"
     },
     {
@@ -346,7 +351,12 @@
     {
       "id": "07-ASTR-0018",
       "taboo_word": "Interferometer",
-      "hint_words": ["Instrument", "Combine signals", "Precision", "Observation"],
+      "hint_words": [
+        "Instrument",
+        "Combine signals",
+        "Precision",
+        "Observation"
+      ],
       "category": "Astronomy"
     },
     {
@@ -376,13 +386,23 @@
     {
       "id": "07-HIST-0003",
       "taboo_word": "Battle of Lexington",
-      "hint_words": ["Revolutionary War", "First Battle", "1775", "Massachusetts"],
+      "hint_words": [
+        "Revolutionary War",
+        "First Battle",
+        "1775",
+        "Massachusetts"
+      ],
       "category": "History"
     },
     {
       "id": "07-HIST-0004",
       "taboo_word": "Battle of Saratoga",
-      "hint_words": ["Revolutionary War", "Turning Point", "British", "Victory"],
+      "hint_words": [
+        "Revolutionary War",
+        "Turning Point",
+        "British",
+        "Victory"
+      ],
       "category": "History"
     },
     {
@@ -478,7 +498,12 @@
     {
       "id": "07-HIST-0020",
       "taboo_word": "Silver Rush",
-      "hint_words": ["Mining", "Boomtowns", "Western Expansion", "Comstock Lode"],
+      "hint_words": [
+        "Mining",
+        "Boomtowns",
+        "Western Expansion",
+        "Comstock Lode"
+      ],
       "category": "History"
     },
     {
@@ -490,7 +515,12 @@
     {
       "id": "07-HOLL-0002",
       "taboo_word": "Kevin Costner",
-      "hint_words": ["Dances with Wolves", "The Bodyguard", "Yellowstone", "Actor"],
+      "hint_words": [
+        "Dances with Wolves",
+        "The Bodyguard",
+        "Yellowstone",
+        "Actor"
+      ],
       "category": "Hollywood"
     },
     {
@@ -502,7 +532,12 @@
     {
       "id": "07-HOLL-0004",
       "taboo_word": "Javier Bardem",
-      "hint_words": ["No Country for Old Men", "Skyfall", "Spanish Actor", "Dune"],
+      "hint_words": [
+        "No Country for Old Men",
+        "Skyfall",
+        "Spanish Actor",
+        "Dune"
+      ],
       "category": "Hollywood"
     },
     {
@@ -549,19 +584,34 @@
     {
       "id": "07-HOLL-0011",
       "taboo_word": "Diane Keaton",
-      "hint_words": ["Annie Hall", "The Godfather", "Something's Gotta Give", "Actress"],
+      "hint_words": [
+        "Annie Hall",
+        "The Godfather",
+        "Something's Gotta Give",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
       "id": "07-HOLL-0012",
       "taboo_word": "Regina King",
-      "hint_words": ["Watchmen", "If Beale Street Could Talk", "Academy Award", "Actress"],
+      "hint_words": [
+        "Watchmen",
+        "If Beale Street Could Talk",
+        "Academy Award",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
       "id": "07-HOLL-0013",
       "taboo_word": "Django Unchained",
-      "hint_words": ["Quentin Tarantino", "Jamie Foxx", "Western", "Leonardo DiCaprio"],
+      "hint_words": [
+        "Quentin Tarantino",
+        "Jamie Foxx",
+        "Western",
+        "Leonardo DiCaprio"
+      ],
       "category": "Hollywood"
     },
     {
@@ -591,7 +641,12 @@
     {
       "id": "07-HOLL-0018",
       "taboo_word": "Wes Anderson",
-      "hint_words": ["The Grand Budapest Hotel", "Director", "Quirky Style", "Fantastic Mr. Fox"],
+      "hint_words": [
+        "The Grand Budapest Hotel",
+        "Director",
+        "Quirky Style",
+        "Fantastic Mr. Fox"
+      ],
       "category": "Hollywood"
     },
     {
@@ -609,7 +664,12 @@
     {
       "id": "07-BOLL-0001",
       "taboo_word": "Dilip Kumar",
-      "hint_words": ["Tragedy King", "Mughal-e-Azam", "Legendary Actor", "Devdas"],
+      "hint_words": [
+        "Tragedy King",
+        "Mughal-e-Azam",
+        "Legendary Actor",
+        "Devdas"
+      ],
       "category": "Bollywood"
     },
     {
@@ -633,19 +693,34 @@
     {
       "id": "07-BOLL-0005",
       "taboo_word": "Vinod Khanna",
-      "hint_words": ["Amar Akbar Anthony", "Handsome", "Hero-Villain", "Qurbani"],
+      "hint_words": [
+        "Amar Akbar Anthony",
+        "Handsome",
+        "Hero-Villain",
+        "Qurbani"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0006",
       "taboo_word": "Nargis",
-      "hint_words": ["Mother India", "Raj Kapoor", "Talented Actress", "50s Icon"],
+      "hint_words": [
+        "Mother India",
+        "Raj Kapoor",
+        "Talented Actress",
+        "50s Icon"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0007",
       "taboo_word": "Meena Kumari",
-      "hint_words": ["Tragedy Queen", "Pakeezah", "Graceful", "Timeless Beauty"],
+      "hint_words": [
+        "Tragedy Queen",
+        "Pakeezah",
+        "Graceful",
+        "Timeless Beauty"
+      ],
       "category": "Bollywood"
     },
     {
@@ -663,7 +738,12 @@
     {
       "id": "07-BOLL-0010",
       "taboo_word": "Zeenat Aman",
-      "hint_words": ["Hare Rama Hare Krishna", "Bold Roles", "Dum Maro Dum", "70s Star"],
+      "hint_words": [
+        "Hare Rama Hare Krishna",
+        "Bold Roles",
+        "Dum Maro Dum",
+        "70s Star"
+      ],
       "category": "Bollywood"
     },
     {
@@ -687,49 +767,89 @@
     {
       "id": "07-BOLL-0014",
       "taboo_word": "Guide",
-      "hint_words": ["Dev Anand", "Timeless", "Romantic Drama", "R. K. Narayan"],
+      "hint_words": [
+        "Dev Anand",
+        "Timeless",
+        "Romantic Drama",
+        "R. K. Narayan"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0015",
       "taboo_word": "Kati Patang",
-      "hint_words": ["Rajesh Khanna", "Heartbreak", "Classic Love Story", "Evergreen Songs"],
+      "hint_words": [
+        "Rajesh Khanna",
+        "Heartbreak",
+        "Classic Love Story",
+        "Evergreen Songs"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0016",
       "taboo_word": "Guru Dutt",
-      "hint_words": ["Pyaasa", "Kaagaz Ke Phool", "Actor-Director", "Ahead of His Time"],
+      "hint_words": [
+        "Pyaasa",
+        "Kaagaz Ke Phool",
+        "Actor-Director",
+        "Ahead of His Time"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0017",
       "taboo_word": "Bimal Roy",
-      "hint_words": ["Do Bigha Zamin", "Realistic Cinema", "Social Themes", "Award Winner"],
+      "hint_words": [
+        "Do Bigha Zamin",
+        "Realistic Cinema",
+        "Social Themes",
+        "Award Winner"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0018",
       "taboo_word": "Madan Mohan",
-      "hint_words": ["Timeless Music", "Lata Mangeshkar", "Melodic Genius", "Woh Kaun Thi"],
+      "hint_words": [
+        "Timeless Music",
+        "Lata Mangeshkar",
+        "Melodic Genius",
+        "Woh Kaun Thi"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0019",
       "taboo_word": "R. D. Burman",
-      "hint_words": ["Music Maestro", "Retro Hits", "Kishore Kumar", "Innovative Tunes"],
+      "hint_words": [
+        "Music Maestro",
+        "Retro Hits",
+        "Kishore Kumar",
+        "Innovative Tunes"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-BOLL-0020",
       "taboo_word": "Kishore Kumar",
-      "hint_words": ["Playback Singer", "Yodelling", "Versatile Artist", "Legendary Voice"],
+      "hint_words": [
+        "Playback Singer",
+        "Yodelling",
+        "Versatile Artist",
+        "Legendary Voice"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "07-ARTS-0001",
       "taboo_word": "Whistler's Mother",
-      "hint_words": ["James Whistler", "Black and White", "Side Profile", "Old Woman"],
+      "hint_words": [
+        "James Whistler",
+        "Black and White",
+        "Side Profile",
+        "Old Woman"
+      ],
       "category": "Arts"
     },
     {
@@ -1011,7 +1131,12 @@
     {
       "id": "07-MUSI-0008",
       "taboo_word": "Linkin Park",
-      "hint_words": ["Hybrid Theory", "In the End", "Numb", "Chester Bennington"],
+      "hint_words": [
+        "Hybrid Theory",
+        "In the End",
+        "Numb",
+        "Chester Bennington"
+      ],
       "category": "Music"
     },
     {
@@ -1047,7 +1172,12 @@
     {
       "id": "07-MUSI-0014",
       "taboo_word": "Toxic",
-      "hint_words": ["Britney Spears", "2003", "Hit Me Baby One More Time", "Pop"],
+      "hint_words": [
+        "Britney Spears",
+        "2003",
+        "Hit Me Baby One More Time",
+        "Pop"
+      ],
       "category": "Music"
     },
     {
@@ -1089,7 +1219,12 @@
     {
       "id": "07-SCIE-0001",
       "taboo_word": "Richard Feynman",
-      "hint_words": ["Quantum Electrodynamics", "Physicist", "Nobel Prize", "Theoretical"],
+      "hint_words": [
+        "Quantum Electrodynamics",
+        "Physicist",
+        "Nobel Prize",
+        "Theoretical"
+      ],
       "category": "Science"
     },
     {
@@ -1101,7 +1236,12 @@
     {
       "id": "07-SCIE-0003",
       "taboo_word": "Jane Goodall",
-      "hint_words": ["Chimpanzees", "Primatologist", "Wildlife", "Conservation"],
+      "hint_words": [
+        "Chimpanzees",
+        "Primatologist",
+        "Wildlife",
+        "Conservation"
+      ],
       "category": "Science"
     },
     {

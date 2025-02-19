@@ -147,14 +147,14 @@
     },
     {
       "id": "09-GEOG-0005",
-      "taboo_word": "Danube Delta",
-      "hint_words": ["Romania", "Europe", "Biodiversity", "Wetlands"],
+      "taboo_word": "Detroit",
+      "hint_words": ["Michigan", "Automobile", "River", "Motown"],
       "category": "Geography"
     },
     {
       "id": "09-GEOG-0006",
-      "taboo_word": "Mount Aconcagua",
-      "hint_words": ["Argentina", "Tallest", "Andes", "South America"],
+      "taboo_word": "Masai Mara",
+      "hint_words": ["Kenya", "Safari", "Wildlife", "Africa"],
       "category": "Geography"
     },
     {
@@ -177,14 +177,14 @@
     },
     {
       "id": "09-GEOG-0010",
-      "taboo_word": "Chichen Itza",
-      "hint_words": ["Mexico", "Mayan", "Pyramid", "Ancient"],
+      "taboo_word": "Copenhagen",
+      "hint_words": ["Denmark", "Capital", "Canals", "Architecture"],
       "category": "Geography"
     },
     {
       "id": "09-GEOG-0011",
-      "taboo_word": "Lake Malawi",
-      "hint_words": ["Africa", "Freshwater", "Fish", "Border"],
+      "taboo_word": "Kathmandu",
+      "hint_words": ["Nepal", "Mountains", "Himalayas", "Capital"],
       "category": "Geography"
     },
     {
@@ -195,14 +195,14 @@
     },
     {
       "id": "09-GEOG-0013",
-      "taboo_word": "Namib Desert",
-      "hint_words": ["Africa", "Dunes", "Dry", "Namibia"],
+      "taboo_word": "Namibia",
+      "hint_words": ["Africa", "Dunes", "Dry", "Namib Desert"],
       "category": "Geography"
     },
     {
       "id": "09-GEOG-0014",
-      "taboo_word": "Blue Mountains",
-      "hint_words": ["Australia", "Forests", "Hiking", "Scenic"],
+      "taboo_word": "Brisbane",
+      "hint_words": ["Australia", "River", "Sunshine", "Queensland"],
       "category": "Geography"
     },
     {
@@ -225,20 +225,25 @@
     },
     {
       "id": "09-GEOG-0018",
-      "taboo_word": "Tasman Sea",
-      "hint_words": ["Water", "Between Australia & New Zealand", "Waves", "Ocean"],
+      "taboo_word": "Seattle",
+      "hint_words": [
+        "Washington",
+        "Space Needle",
+        "Pacific Northwest",
+        "Microsoft"
+      ],
       "category": "Geography"
     },
     {
       "id": "09-GEOG-0019",
-      "taboo_word": "Meteora",
-      "hint_words": ["Greece", "Monasteries", "Cliffs", "Rock Formations"],
+      "taboo_word": "Miami",
+      "hint_words": ["Florida", "Beaches", "Heat", "South"],
       "category": "Geography"
     },
     {
       "id": "09-GEOG-0020",
-      "taboo_word": "Krka National Park",
-      "hint_words": ["Croatia", "Waterfalls", "Nature", "Tourism"],
+      "taboo_word": "Khumbu Region",
+      "hint_words": ["Nepal", "Mount Everest", "Everest Base Camp", "Sherpa"],
       "category": "Geography"
     },
     {
@@ -250,7 +255,12 @@
     {
       "id": "09-HIST-0002",
       "taboo_word": "Teddy Roosevelt",
-      "hint_words": ["President", "Rough Riders", "National Parks", "Trust Buster"],
+      "hint_words": [
+        "President",
+        "Rough Riders",
+        "National Parks",
+        "Trust Buster"
+      ],
       "category": "History"
     },
     {
@@ -334,7 +344,12 @@
     {
       "id": "09-HIST-0016",
       "taboo_word": "Indian Removal Act",
-      "hint_words": ["Andrew Jackson", "Cherokee", "Trail of Tears", "Relocation"],
+      "hint_words": [
+        "Andrew Jackson",
+        "Cherokee",
+        "Trail of Tears",
+        "Relocation"
+      ],
       "category": "History"
     },
     {
@@ -490,7 +505,12 @@
     {
       "id": "09-BOLL-0002",
       "taboo_word": "Nana Patekar",
-      "hint_words": ["Natsamrat", "Krantiveer", "Intense Actor", "Unique Dialogue Delivery"],
+      "hint_words": [
+        "Natsamrat",
+        "Krantiveer",
+        "Intense Actor",
+        "Unique Dialogue Delivery"
+      ],
       "category": "Bollywood"
     },
     {
@@ -514,13 +534,23 @@
     {
       "id": "09-BOLL-0006",
       "taboo_word": "Mumtaz",
-      "hint_words": ["70s Star", "Rajesh Khanna", "Bold Roles", "Charming Actress"],
+      "hint_words": [
+        "70s Star",
+        "Rajesh Khanna",
+        "Bold Roles",
+        "Charming Actress"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0007",
       "taboo_word": "Reena Roy",
-      "hint_words": ["Kalicharan", "70s Star", "Action Films", "Villain’s Wife"],
+      "hint_words": [
+        "Kalicharan",
+        "70s Star",
+        "Action Films",
+        "Villain’s Wife"
+      ],
       "category": "Bollywood"
     },
     {
@@ -532,19 +562,34 @@
     {
       "id": "09-BOLL-0009",
       "taboo_word": "Mandakini",
-      "hint_words": ["Ram Teri Ganga Maili", "Controversy", "80s Star", "Sensational Actress"],
+      "hint_words": [
+        "Ram Teri Ganga Maili",
+        "Controversy",
+        "80s Star",
+        "Sensational Actress"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0010",
       "taboo_word": "Saira Banu",
-      "hint_words": ["Dilip Kumar", "Junglee", "Classic Beauty", "Talented Actress"],
+      "hint_words": [
+        "Dilip Kumar",
+        "Junglee",
+        "Classic Beauty",
+        "Talented Actress"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0011",
       "taboo_word": "Deewaar",
-      "hint_words": ["Amitabh Bachchan", "Mere Paas Maa Hai", "Crime Drama", "Classic"],
+      "hint_words": [
+        "Amitabh Bachchan",
+        "Mere Paas Maa Hai",
+        "Crime Drama",
+        "Classic"
+      ],
       "category": "Bollywood"
     },
     {
@@ -556,19 +601,34 @@
     {
       "id": "09-BOLL-0013",
       "taboo_word": "Nayak",
-      "hint_words": ["One Day CM", "Anil Kapoor", "Political Drama", "Popular Film"],
+      "hint_words": [
+        "One Day CM",
+        "Anil Kapoor",
+        "Political Drama",
+        "Popular Film"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0014",
       "taboo_word": "Chashme Buddoor",
-      "hint_words": ["Classic Comedy", "Farooq Sheikh", "Friendship", "Simple Love Story"],
+      "hint_words": [
+        "Classic Comedy",
+        "Farooq Sheikh",
+        "Friendship",
+        "Simple Love Story"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0015",
       "taboo_word": "Garam Masala",
-      "hint_words": ["Akshay Kumar", "Comedy", "Confusion", "Multiple Girlfriends"],
+      "hint_words": [
+        "Akshay Kumar",
+        "Comedy",
+        "Confusion",
+        "Multiple Girlfriends"
+      ],
       "category": "Bollywood"
     },
     {
@@ -591,19 +651,34 @@
     {
       "id": "09-BOLL-0018",
       "taboo_word": "Jatin-Lalit",
-      "hint_words": ["Music Duo", "Romantic Songs", "Dilwale Dulhania Le Jayenge", "Hitmakers"],
+      "hint_words": [
+        "Music Duo",
+        "Romantic Songs",
+        "Dilwale Dulhania Le Jayenge",
+        "Hitmakers"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0019",
       "taboo_word": "Anand Bakshi",
-      "hint_words": ["Lyricist", "Timeless Songs", "Iconic Lyrics", "Music Industry"],
+      "hint_words": [
+        "Lyricist",
+        "Timeless Songs",
+        "Iconic Lyrics",
+        "Music Industry"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "09-BOLL-0020",
       "taboo_word": "Mika Singh",
-      "hint_words": ["Punjabi Pop", "Singer", "Mauja Hi Mauja", "Energetic Voice"],
+      "hint_words": [
+        "Punjabi Pop",
+        "Singer",
+        "Mauja Hi Mauja",
+        "Energetic Voice"
+      ],
       "category": "Bollywood"
     },
     {
@@ -621,7 +696,12 @@
     {
       "id": "09-ARTS-0003",
       "taboo_word": "Caravaggio",
-      "hint_words": ["Baroque", "Italian", "The Calling of St. Matthew", "Chiaroscuro"],
+      "hint_words": [
+        "Baroque",
+        "Italian",
+        "The Calling of St. Matthew",
+        "Chiaroscuro"
+      ],
       "category": "Arts"
     },
     {
@@ -855,7 +935,12 @@
     {
       "id": "09-MUSI-0002",
       "taboo_word": "Brenda Lee",
-      "hint_words": ["Rockin' Around the Christmas Tree", "Country", "60s", "Little Miss Dynamite"],
+      "hint_words": [
+        "Rockin' Around the Christmas Tree",
+        "Country",
+        "60s",
+        "Little Miss Dynamite"
+      ],
       "category": "Music"
     },
     {
@@ -873,25 +958,45 @@
     {
       "id": "09-MUSI-0005",
       "taboo_word": "The Kinks",
-      "hint_words": ["You Really Got Me", "British Invasion", "Lola", "60s Rock"],
+      "hint_words": [
+        "You Really Got Me",
+        "British Invasion",
+        "Lola",
+        "60s Rock"
+      ],
       "category": "Music"
     },
     {
       "id": "09-MUSI-0006",
       "taboo_word": "The Byrds",
-      "hint_words": ["Turn! Turn! Turn!", "Folk Rock", "Mr. Tambourine Man", "60s"],
+      "hint_words": [
+        "Turn! Turn! Turn!",
+        "Folk Rock",
+        "Mr. Tambourine Man",
+        "60s"
+      ],
       "category": "Music"
     },
     {
       "id": "09-MUSI-0007",
       "taboo_word": "R.E.M.",
-      "hint_words": ["Losing My Religion", "Alternative Rock", "90s", "Michael Stipe"],
+      "hint_words": [
+        "Losing My Religion",
+        "Alternative Rock",
+        "90s",
+        "Michael Stipe"
+      ],
       "category": "Music"
     },
     {
       "id": "09-MUSI-0008",
       "taboo_word": "The Arctic Monkeys",
-      "hint_words": ["Do I Wanna Know?", "Indie Rock", "British", "Alex Turner"],
+      "hint_words": [
+        "Do I Wanna Know?",
+        "Indie Rock",
+        "British",
+        "Alex Turner"
+      ],
       "category": "Music"
     },
     {

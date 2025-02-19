@@ -147,20 +147,20 @@
     },
     {
       "id": "13-GEOG-0005",
-      "taboo_word": "Loire River",
-      "hint_words": ["France", "Longest", "Valley", "Castles"],
+      "taboo_word": "Kashmir",
+      "hint_words": ["Disputed", "North", "Jammu", "Beautiful"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0006",
-      "taboo_word": "Mount Logan",
-      "hint_words": ["Canada", "Tallest", "Yukon", "Snow"],
+      "taboo_word": "Nigeria",
+      "hint_words": ["Africa", "Lagos", "Oil", "Niger Delta"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0007",
-      "taboo_word": "Valletta",
-      "hint_words": ["Malta", "Capital", "Fortress", "Mediterranean"],
+      "taboo_word": "Wales",
+      "hint_words": ["United Kingdom", "Cardiff", "Dragon", "Cymru"],
       "category": "Geography"
     },
     {
@@ -183,26 +183,26 @@
     },
     {
       "id": "13-GEOG-0011",
-      "taboo_word": "Lake Balkhash",
-      "hint_words": ["Kazakhstan", "Freshwater", "Divided", "Central Asia"],
+      "taboo_word": "Libya",
+      "hint_words": ["Africa", "Tripoli", "Gaddafi", "Oil"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0012",
-      "taboo_word": "Lamu Island",
-      "hint_words": ["Kenya", "Swahili", "Beaches", "Indian Ocean"],
+      "taboo_word": "Leipzig",
+      "hint_words": ["Germany", "Saxony", "Baroque", "Trade Fair"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0013",
-      "taboo_word": "Thar Desert",
-      "hint_words": ["India", "Rajasthan", "Sand Dunes", "Dry"],
+      "taboo_word": "Uganda",
+      "hint_words": ["Africa", "Kampala", "Pearl", "Victoria"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0014",
-      "taboo_word": "Carpathian Mountains",
-      "hint_words": ["Europe", "Romania", "Range", "Forests"],
+      "taboo_word": "Costa Rica",
+      "hint_words": ["Central America", "Tropical", "Rainforest", "Volcanoes"],
       "category": "Geography"
     },
     {
@@ -213,20 +213,20 @@
     },
     {
       "id": "13-GEOG-0016",
-      "taboo_word": "Crete",
-      "hint_words": ["Greece", "Island", "Minoan", "Beaches"],
+      "taboo_word": "Christchurch",
+      "hint_words": ["New Zealand", "Earthquake", "Canterbury", "South Island"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0017",
-      "taboo_word": "Pamir Mountains",
-      "hint_words": ["Asia", "Tajikistan", "High", "Cold"],
+      "taboo_word": "Oahu",
+      "hint_words": ["Hawaii", "Island", "Honolulu", "Beaches"],
       "category": "Geography"
     },
     {
       "id": "13-GEOG-0018",
-      "taboo_word": "Gulf of Aden",
-      "hint_words": ["Water", "Yemen", "Somalia", "Pirates"],
+      "taboo_word": "Florence",
+      "hint_words": ["Italy", "Tuscany", "Duomo", "Renaissance"],
       "category": "Geography"
     },
     {
@@ -237,8 +237,8 @@
     },
     {
       "id": "13-GEOG-0020",
-      "taboo_word": "Seljalandsfoss",
-      "hint_words": ["Iceland", "Waterfall", "Scenic", "Cave"],
+      "taboo_word": "Shanghai",
+      "hint_words": ["China", "Huangpu", "Skyscrapers", "Modern"],
       "category": "Geography"
     },
     {
@@ -604,7 +604,12 @@
     {
       "id": "13-BOLL-0001",
       "taboo_word": "Pankaj Kapoor",
-      "hint_words": ["Maqbool", "Office Office", "Shahid's Father", "Veteran Actor"],
+      "hint_words": [
+        "Maqbool",
+        "Office Office",
+        "Shahid's Father",
+        "Veteran Actor"
+      ],
       "category": "Bollywood"
     },
     {
@@ -622,25 +627,45 @@
     {
       "id": "13-BOLL-0004",
       "taboo_word": "Raj Babbar",
-      "hint_words": ["Insaaf Ka Tarazu", "Politician", "80s Actor", "Intense Roles"],
+      "hint_words": [
+        "Insaaf Ka Tarazu",
+        "Politician",
+        "80s Actor",
+        "Intense Roles"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0005",
       "taboo_word": "Sudhir Pandey",
-      "hint_words": ["Character Actor", "Old Man Roles", "TV & Movies", "Supporting Cast"],
+      "hint_words": [
+        "Character Actor",
+        "Old Man Roles",
+        "TV & Movies",
+        "Supporting Cast"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0006",
       "taboo_word": "Jaya Prada",
-      "hint_words": ["80s Actress", "Classical Dancer", "Sargam", "Elegant Beauty"],
+      "hint_words": [
+        "80s Actress",
+        "Classical Dancer",
+        "Sargam",
+        "Elegant Beauty"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0007",
       "taboo_word": "Saira Banu",
-      "hint_words": ["Dilip Kumar", "Junglee", "Classic Actress", "Romantic Movies"],
+      "hint_words": [
+        "Dilip Kumar",
+        "Junglee",
+        "Classic Actress",
+        "Romantic Movies"
+      ],
       "category": "Bollywood"
     },
     {
@@ -652,7 +677,12 @@
     {
       "id": "13-BOLL-0009",
       "taboo_word": "Bhagyashree",
-      "hint_words": ["Maine Pyaar Kiya", "One-Hit Wonder", "Salman Khan", "90s Actress"],
+      "hint_words": [
+        "Maine Pyaar Kiya",
+        "One-Hit Wonder",
+        "Salman Khan",
+        "90s Actress"
+      ],
       "category": "Bollywood"
     },
     {
@@ -682,25 +712,45 @@
     {
       "id": "13-BOLL-0014",
       "taboo_word": "Zanjeer",
-      "hint_words": ["Angry Young Man", "Amitabh Bachchan", "Police Officer", "Action"],
+      "hint_words": [
+        "Angry Young Man",
+        "Amitabh Bachchan",
+        "Police Officer",
+        "Action"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0015",
       "taboo_word": "Jab We Met",
-      "hint_words": ["Romantic", "Shahid Kapoor", "Kareena Kapoor", "Train Journey"],
+      "hint_words": [
+        "Romantic",
+        "Shahid Kapoor",
+        "Kareena Kapoor",
+        "Train Journey"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0016",
       "taboo_word": "Om Shanti Om",
-      "hint_words": ["Reincarnation", "Shah Rukh Khan", "Deepika Padukone", "Bollywood Tribute"],
+      "hint_words": [
+        "Reincarnation",
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Bollywood Tribute"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "13-BOLL-0017",
       "taboo_word": "Veer-Zaara",
-      "hint_words": ["Cross-Border Love", "Shah Rukh Khan", "Yash Chopra", "Pakistan-India"],
+      "hint_words": [
+        "Cross-Border Love",
+        "Shah Rukh Khan",
+        "Yash Chopra",
+        "Pakistan-India"
+      ],
       "category": "Bollywood"
     },
     {
@@ -742,7 +792,12 @@
     {
       "id": "13-ARTS-0004",
       "taboo_word": "Ed, Edd n Eddy",
-      "hint_words": ["Jawbreakers", "Cartoon Network", "Neighborhood", "Schemes"],
+      "hint_words": [
+        "Jawbreakers",
+        "Cartoon Network",
+        "Neighborhood",
+        "Schemes"
+      ],
       "category": "Arts"
     },
     {
@@ -976,13 +1031,23 @@
     {
       "id": "13-MUSI-0003",
       "taboo_word": "Cher",
-      "hint_words": ["Believe", "Turn Back Time", "Goddess of Pop", "Auto-Tune"],
+      "hint_words": [
+        "Believe",
+        "Turn Back Time",
+        "Goddess of Pop",
+        "Auto-Tune"
+      ],
       "category": "Music"
     },
     {
       "id": "13-MUSI-0004",
       "taboo_word": "Igor Stravinsky",
-      "hint_words": ["The Firebird", "The Rite of Spring", "Ballet", "Classical"],
+      "hint_words": [
+        "The Firebird",
+        "The Rite of Spring",
+        "Ballet",
+        "Classical"
+      ],
       "category": "Music"
     },
     {
@@ -1000,7 +1065,12 @@
     {
       "id": "13-MUSI-0007",
       "taboo_word": "The Killers",
-      "hint_words": ["Mr. Brightside", "Somebody Told Me", "Las Vegas", "Indie Rock"],
+      "hint_words": [
+        "Mr. Brightside",
+        "Somebody Told Me",
+        "Las Vegas",
+        "Indie Rock"
+      ],
       "category": "Music"
     },
     {

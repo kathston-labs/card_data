@@ -165,8 +165,8 @@
     },
     {
       "id": "01-GEOG-0008",
-      "taboo_word": "Great Wall of China",
-      "hint_words": ["China", "Long", "Ancient", "Bricks"],
+      "taboo_word": "Finland",
+      "hint_words": ["Heavy Metal", "Sauna", "Helsinki", "Northern Lights"],
       "category": "Geography"
     },
     {
@@ -189,20 +189,20 @@
     },
     {
       "id": "01-GEOG-0012",
-      "taboo_word": "Mount Kilimanjaro",
-      "hint_words": ["Africa", "Tanzania", "Volcano", "Tall"],
+      "taboo_word": "New Orleans",
+      "hint_words": ["Louisiana", "Mardi Gras", "Cajun", "Big Easy"],
       "category": "Geography"
     },
     {
       "id": "01-GEOG-0013",
-      "taboo_word": "Amazon Rainforest",
-      "hint_words": ["Brazil", "Trees", "Jungle", "Wildlife"],
+      "taboo_word": "Armenia",
+      "hint_words": ["Caucasus", "Genocide", "Mountains", "Christian"],
       "category": "Geography"
     },
     {
       "id": "01-GEOG-0014",
-      "taboo_word": "Statue of Liberty",
-      "hint_words": ["USA", "New York", "Torch", "Green"],
+      "taboo_word": "Houston",
+      "hint_words": ["Texas", "Space", "Energy", "Oil"],
       "category": "Geography"
     },
     {
@@ -231,8 +231,8 @@
     },
     {
       "id": "01-GEOG-0019",
-      "taboo_word": "Mount Fuji",
-      "hint_words": ["Japan", "Volcano", "Peak", "Famous"],
+      "taboo_word": "Nashville",
+      "hint_words": ["Tennessee", "Country", "Music", "Memphis"],
       "category": "Geography"
     },
     {
@@ -484,7 +484,12 @@
     {
       "id": "01-HOLL-0001",
       "taboo_word": "Tom Hanks",
-      "hint_words": ["Forrest Gump", "Cast Away", "Toy Story", "Saving Private Ryan"],
+      "hint_words": [
+        "Forrest Gump",
+        "Cast Away",
+        "Toy Story",
+        "Saving Private Ryan"
+      ],
       "category": "Hollywood"
     },
     {
@@ -537,7 +542,12 @@
     {
       "id": "01-HOLL-0009",
       "taboo_word": "Jennifer Lawrence",
-      "hint_words": ["Hunger Games", "Silver Linings Playbook", "Oscar", "Actress"],
+      "hint_words": [
+        "Hunger Games",
+        "Silver Linings Playbook",
+        "Oscar",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
@@ -591,7 +601,12 @@
     {
       "id": "01-HOLL-0018",
       "taboo_word": "Quentin Tarantino",
-      "hint_words": ["Director", "Pulp Fiction", "Kill Bill", "Django Unchained"],
+      "hint_words": [
+        "Director",
+        "Pulp Fiction",
+        "Kill Bill",
+        "Django Unchained"
+      ],
       "category": "Hollywood"
     },
     {
@@ -627,7 +642,12 @@
     {
       "id": "01-BOLL-0004",
       "taboo_word": "Ranbir Kapoor",
-      "hint_words": ["Animal", "Katrina Kaif", "Alia Bhatt", "Deepika Padukone"],
+      "hint_words": [
+        "Animal",
+        "Katrina Kaif",
+        "Alia Bhatt",
+        "Deepika Padukone"
+      ],
       "category": "Bollywood"
     },
     {
@@ -639,7 +659,12 @@
     {
       "id": "01-BOLL-0006",
       "taboo_word": "Deepika Padukone",
-      "hint_words": ["Chennai Express", "Padmaavat", "Bajirao Mastani", "Ranveer Singh"],
+      "hint_words": [
+        "Chennai Express",
+        "Padmaavat",
+        "Bajirao Mastani",
+        "Ranveer Singh"
+      ],
       "category": "Bollywood"
     },
     {
@@ -657,13 +682,23 @@
     {
       "id": "01-BOLL-0009",
       "taboo_word": "Alia Bhatt",
-      "hint_words": ["Gangubai", "Ranbir Kapoor", "Student of the Year", "Mukesh Bhatt"],
+      "hint_words": [
+        "Gangubai",
+        "Ranbir Kapoor",
+        "Student of the Year",
+        "Mukesh Bhatt"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "01-BOLL-0010",
       "taboo_word": "Katrina Kaif",
-      "hint_words": ["Vicky Kaushal", "British", "Salman Khan", "Ranbir Kapoor"],
+      "hint_words": [
+        "Vicky Kaushal",
+        "British",
+        "Salman Khan",
+        "Ranbir Kapoor"
+      ],
       "category": "Bollywood"
     },
     {
@@ -699,7 +734,12 @@
     {
       "id": "01-BOLL-0016",
       "taboo_word": "Karan Johar",
-      "hint_words": ["Director", "Dharma Productions", "Kabhi Khushi Kabhie Gham", "Filmmaker"],
+      "hint_words": [
+        "Director",
+        "Dharma Productions",
+        "Kabhi Khushi Kabhie Gham",
+        "Filmmaker"
+      ],
       "category": "Bollywood"
     },
     {
@@ -711,7 +751,12 @@
     {
       "id": "01-BOLL-0018",
       "taboo_word": "Amitabh Bachchan",
-      "hint_words": ["Big B", "Kaun Banega Crorepati", "Angry Young Man", "Tall"],
+      "hint_words": [
+        "Big B",
+        "Kaun Banega Crorepati",
+        "Angry Young Man",
+        "Tall"
+      ],
       "category": "Bollywood"
     },
     {
@@ -735,7 +780,12 @@
     {
       "id": "01-ARTS-0002",
       "taboo_word": "The Starry Night",
-      "hint_words": ["Vincent van Gogh", "Swirls", "Night Sky", "Famous Painting"],
+      "hint_words": [
+        "Vincent van Gogh",
+        "Swirls",
+        "Night Sky",
+        "Famous Painting"
+      ],
       "category": "Arts"
     },
     {
@@ -969,7 +1019,12 @@
     {
       "id": "01-MUSI-0001",
       "taboo_word": "Elvis Presley",
-      "hint_words": ["King of Rock", "Blue Suede Shoes", "Graceland", "Hound Dog"],
+      "hint_words": [
+        "King of Rock",
+        "Blue Suede Shoes",
+        "Graceland",
+        "Hound Dog"
+      ],
       "category": "Music"
     },
     {
@@ -981,7 +1036,12 @@
     {
       "id": "01-MUSI-0003",
       "taboo_word": "Freddie Mercury",
-      "hint_words": ["Queen", "Bohemian Rhapsody", "We Will Rock You", "Singer"],
+      "hint_words": [
+        "Queen",
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "Singer"
+      ],
       "category": "Music"
     },
     {
@@ -993,25 +1053,45 @@
     {
       "id": "01-MUSI-0005",
       "taboo_word": "The Beatles",
-      "hint_words": ["John Lennon", "Paul McCartney", "British Invasion", "Hey Jude"],
+      "hint_words": [
+        "John Lennon",
+        "Paul McCartney",
+        "British Invasion",
+        "Hey Jude"
+      ],
       "category": "Music"
     },
     {
       "id": "01-MUSI-0006",
       "taboo_word": "Led Zeppelin",
-      "hint_words": ["Rock Band", "Stairway to Heaven", "Jimmy Page", "Robert Plant"],
+      "hint_words": [
+        "Rock Band",
+        "Stairway to Heaven",
+        "Jimmy Page",
+        "Robert Plant"
+      ],
       "category": "Music"
     },
     {
       "id": "01-MUSI-0007",
       "taboo_word": "The Rolling Stones",
-      "hint_words": ["Mick Jagger", "Keith Richards", "Paint It Black", "Satisfaction"],
+      "hint_words": [
+        "Mick Jagger",
+        "Keith Richards",
+        "Paint It Black",
+        "Satisfaction"
+      ],
       "category": "Music"
     },
     {
       "id": "01-MUSI-0008",
       "taboo_word": "Nirvana",
-      "hint_words": ["Grunge", "Kurt Cobain", "Smells Like Teen Spirit", "Seattle"],
+      "hint_words": [
+        "Grunge",
+        "Kurt Cobain",
+        "Smells Like Teen Spirit",
+        "Seattle"
+      ],
       "category": "Music"
     },
     {
@@ -1083,7 +1163,12 @@
     {
       "id": "01-MUSI-0020",
       "taboo_word": "I Want to Hold Your Hand",
-      "hint_words": ["The Beatles", "1963", "British Invasion", "She Loves You"],
+      "hint_words": [
+        "The Beatles",
+        "1963",
+        "British Invasion",
+        "She Loves You"
+      ],
       "category": "Music"
     },
     {
@@ -1173,13 +1258,23 @@
     {
       "id": "01-SCIE-0015",
       "taboo_word": "Light Bulb",
-      "hint_words": ["Invention", "Electricity", "Thomas Edison", "Illumination"],
+      "hint_words": [
+        "Invention",
+        "Electricity",
+        "Thomas Edison",
+        "Illumination"
+      ],
       "category": "Science"
     },
     {
       "id": "01-SCIE-0016",
       "taboo_word": "Telephone",
-      "hint_words": ["Communication", "Alexander Graham Bell", "Call", "Invention"],
+      "hint_words": [
+        "Communication",
+        "Alexander Graham Bell",
+        "Call",
+        "Invention"
+      ],
       "category": "Science"
     },
     {

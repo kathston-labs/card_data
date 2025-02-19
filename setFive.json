@@ -147,14 +147,14 @@
     },
     {
       "id": "05-GEOG-0005",
-      "taboo_word": "Tigris",
-      "hint_words": ["Middle East", "Iraq", "River", "Euphrates"],
+      "taboo_word": "United Kingdom",
+      "hint_words": ["London", "England", "Wales", "Scotland"],
       "category": "Geography"
     },
     {
       "id": "05-GEOG-0006",
-      "taboo_word": "Mount Elbrus",
-      "hint_words": ["Europe", "Russia", "Tallest", "Caucasus"],
+      "taboo_word": "Munich",
+      "hint_words": ["Germany", "Bavaria", "Oktoberfest", "Bayern"],
       "category": "Geography"
     },
     {
@@ -171,14 +171,14 @@
     },
     {
       "id": "05-GEOG-0009",
-      "taboo_word": "Yangon",
-      "hint_words": ["Myanmar", "City", "Golden Pagoda", "Former Capital"],
+      "taboo_word": "Wellington",
+      "hint_words": ["New Zealand", "Capital", "Windy", "Beehive"],
       "category": "Geography"
     },
     {
       "id": "05-GEOG-0010",
-      "taboo_word": "Parthenon",
-      "hint_words": ["Greece", "Athens", "Ancient", "Temple"],
+      "taboo_word": "Oakland",
+      "hint_words": ["California", "Bay Area", "Bridge", "San Francisco"],
       "category": "Geography"
     },
     {
@@ -195,20 +195,20 @@
     },
     {
       "id": "05-GEOG-0013",
-      "taboo_word": "Amazon Basin",
-      "hint_words": ["South America", "Rainforest", "Brazil", "River"],
+      "taboo_word": "American Samoa",
+      "hint_words": ["Pacific", "Small", "US Territory", "Polynesia"],
       "category": "Geography"
     },
     {
       "id": "05-GEOG-0014",
-      "taboo_word": "Mount Kosciuszko",
-      "hint_words": ["Australia", "Tallest", "Snowy Mountains", "Peak"],
+      "taboo_word": "Nuremberg",
+      "hint_words": ["Germany", "Historic", "Trials", "Christmas"],
       "category": "Geography"
     },
     {
       "id": "05-GEOG-0015",
-      "taboo_word": "Rio de Janeiro",
-      "hint_words": ["Brazil", "Copacabana", "Carnival", "Sugarloaf Mountain"],
+      "taboo_word": "Reykjavik",
+      "hint_words": ["Iceland", "Geothermal", "Capital", "Vikings"],
       "category": "Geography"
     },
     {
@@ -219,14 +219,19 @@
     },
     {
       "id": "05-GEOG-0017",
-      "taboo_word": "Ural Mountains",
-      "hint_words": ["Russia", "Europe-Asia Border", "Range", "Dividing Line"],
+      "taboo_word": "Valencia",
+      "hint_words": ["Spain", "Paella", "Fallas", "Turia"],
       "category": "Geography"
     },
     {
       "id": "05-GEOG-0018",
       "taboo_word": "Red Sea",
-      "hint_words": ["Water", "Egypt", "Saudi Arabia", "Between Africa and Asia"],
+      "hint_words": [
+        "Water",
+        "Egypt",
+        "Saudi Arabia",
+        "Between Africa and Asia"
+      ],
       "category": "Geography"
     },
     {
@@ -237,8 +242,8 @@
     },
     {
       "id": "05-GEOG-0020",
-      "taboo_word": "Lake Victoria",
-      "hint_words": ["Africa", "Largest", "Tanzania", "Freshwater"],
+      "taboo_word": "Lithuania",
+      "hint_words": ["Europe", "Vilnius", "Baltic", "Soviet"],
       "category": "Geography"
     },
     {
@@ -423,7 +428,12 @@
     {
       "id": "05-HIST-0010",
       "taboo_word": "Louis XVI",
-      "hint_words": ["French Revolution", "Executed", "Versailles", "Marie Antoinette"],
+      "hint_words": [
+        "French Revolution",
+        "Executed",
+        "Versailles",
+        "Marie Antoinette"
+      ],
       "category": "History"
     },
     {
@@ -513,7 +523,12 @@
     {
       "id": "05-HOLL-0005",
       "taboo_word": "Jake Gyllenhaal",
-      "hint_words": ["Donnie Darko", "Nightcrawler", "Brokeback Mountain", "Actor"],
+      "hint_words": [
+        "Donnie Darko",
+        "Nightcrawler",
+        "Brokeback Mountain",
+        "Actor"
+      ],
       "category": "Hollywood"
     },
     {
@@ -525,7 +540,12 @@
     {
       "id": "05-HOLL-0007",
       "taboo_word": "Viola Davis",
-      "hint_words": ["The Help", "Fences", "Oscar Winner", "How to Get Away with Murder"],
+      "hint_words": [
+        "The Help",
+        "Fences",
+        "Oscar Winner",
+        "How to Get Away with Murder"
+      ],
       "category": "Hollywood"
     },
     {
@@ -543,7 +563,12 @@
     {
       "id": "05-HOLL-0010",
       "taboo_word": "Mila Kunis",
-      "hint_words": ["That '70s Show", "Black Swan", "Ashton Kutcher", "Family Guy"],
+      "hint_words": [
+        "That '70s Show",
+        "Black Swan",
+        "Ashton Kutcher",
+        "Family Guy"
+      ],
       "category": "Hollywood"
     },
     {
@@ -561,7 +586,12 @@
     {
       "id": "05-HOLL-0013",
       "taboo_word": "The Silence of the Lambs",
-      "hint_words": ["Hannibal Lecter", "Thriller", "Jodie Foster", "Serial Killer"],
+      "hint_words": [
+        "Hannibal Lecter",
+        "Thriller",
+        "Jodie Foster",
+        "Serial Killer"
+      ],
       "category": "Hollywood"
     },
     {
@@ -621,7 +651,12 @@
     {
       "id": "05-BOLL-0003",
       "taboo_word": "Manoj Bajpayee",
-      "hint_words": ["Gangs of Wasseypur", "The Family Man", "Theater Actor", "Satya"],
+      "hint_words": [
+        "Gangs of Wasseypur",
+        "The Family Man",
+        "Theater Actor",
+        "Satya"
+      ],
       "category": "Bollywood"
     },
     {
@@ -663,7 +698,12 @@
     {
       "id": "05-BOLL-0010",
       "taboo_word": "Rakul Preet Singh",
-      "hint_words": ["De De Pyaar De", "Yaariyan", "South Indian Films", "De De Pyaar De"],
+      "hint_words": [
+        "De De Pyaar De",
+        "Yaariyan",
+        "South Indian Films",
+        "De De Pyaar De"
+      ],
       "category": "Bollywood"
     },
     {
@@ -681,7 +721,12 @@
     {
       "id": "05-BOLL-0013",
       "taboo_word": "Badhaai Ho",
-      "hint_words": ["Comedy", "Pregnancy", "Ayushmann Khurrana", "Neena Gupta"],
+      "hint_words": [
+        "Comedy",
+        "Pregnancy",
+        "Ayushmann Khurrana",
+        "Neena Gupta"
+      ],
       "category": "Bollywood"
     },
     {
@@ -693,7 +738,12 @@
     {
       "id": "05-BOLL-0015",
       "taboo_word": "Rock On!!",
-      "hint_words": ["Farhan Akhtar", "Music", "Rock Band", "Shankar Ehsaan Loy"],
+      "hint_words": [
+        "Farhan Akhtar",
+        "Music",
+        "Rock Band",
+        "Shankar Ehsaan Loy"
+      ],
       "category": "Bollywood"
     },
     {
@@ -801,7 +851,12 @@
     {
       "id": "05-ARTS-0013",
       "taboo_word": "The Barnes Foundation",
-      "hint_words": ["Philadelphia", "Impressionism", "Private Collection", "Museum"],
+      "hint_words": [
+        "Philadelphia",
+        "Impressionism",
+        "Private Collection",
+        "Museum"
+      ],
       "category": "Arts"
     },
     {
@@ -975,7 +1030,12 @@
     {
       "id": "05-MUSI-0002",
       "taboo_word": "Beyoncé",
-      "hint_words": ["Single Ladies", "Crazy in Love", "Destiny's Child", "Queen Bey"],
+      "hint_words": [
+        "Single Ladies",
+        "Crazy in Love",
+        "Destiny's Child",
+        "Queen Bey"
+      ],
       "category": "Music"
     },
     {
@@ -993,13 +1053,23 @@
     {
       "id": "05-MUSI-0005",
       "taboo_word": "The Clash",
-      "hint_words": ["Punk Rock", "London Calling", "Should I Stay or Should I Go", "British"],
+      "hint_words": [
+        "Punk Rock",
+        "London Calling",
+        "Should I Stay or Should I Go",
+        "British"
+      ],
       "category": "Music"
     },
     {
       "id": "05-MUSI-0006",
       "taboo_word": "KISS",
-      "hint_words": ["Rock Band", "Makeup", "Detroit Rock City", "Gene Simmons"],
+      "hint_words": [
+        "Rock Band",
+        "Makeup",
+        "Detroit Rock City",
+        "Gene Simmons"
+      ],
       "category": "Music"
     },
     {
@@ -1011,7 +1081,12 @@
     {
       "id": "05-MUSI-0008",
       "taboo_word": "Red Hot Chili Peppers",
-      "hint_words": ["Funk Rock", "Californication", "Anthony Kiedis", "Give It Away"],
+      "hint_words": [
+        "Funk Rock",
+        "Californication",
+        "Anthony Kiedis",
+        "Give It Away"
+      ],
       "category": "Music"
     },
     {
@@ -1095,7 +1170,12 @@
     {
       "id": "05-SCIE-0002",
       "taboo_word": "Michael Faraday",
-      "hint_words": ["Electromagnetism", "Electric Motor", "Physics", "Magnetism"],
+      "hint_words": [
+        "Electromagnetism",
+        "Electric Motor",
+        "Physics",
+        "Magnetism"
+      ],
       "category": "Science"
     },
     {

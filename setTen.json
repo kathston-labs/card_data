@@ -147,14 +147,14 @@
     },
     {
       "id": "10-GEOG-0005",
-      "taboo_word": "Murray River",
-      "hint_words": ["Australia", "Longest", "Water", "Flow"],
+      "taboo_word": "Naples",
+      "hint_words": ["Pompeii", "Pizza", "Italy", "Vesuvius"],
       "category": "Geography"
     },
     {
       "id": "10-GEOG-0006",
-      "taboo_word": "Mount Kinabalu",
-      "hint_words": ["Malaysia", "Tallest", "Borneo", "Hiking"],
+      "taboo_word": "Mumbai",
+      "hint_words": ["India", "Bombay", "Maharashtra", "Bollywood"],
       "category": "Geography"
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "id": "10-GEOG-0010",
-      "taboo_word": "Tikal",
-      "hint_words": ["Guatemala", "Mayan", "Ruins", "Ancient"],
+      "taboo_word": "Utah",
+      "hint_words": ["Salt Lake City", "Zion", "Desert", "National Park"],
       "category": "Geography"
     },
     {
@@ -195,14 +195,14 @@
     },
     {
       "id": "10-GEOG-0013",
-      "taboo_word": "Sonoran Desert",
-      "hint_words": ["USA", "Mexico", "Cactus", "Hot"],
+      "taboo_word": "Syracuse",
+      "hint_words": ["New York", "University", "Orange", "Snow"],
       "category": "Geography"
     },
     {
       "id": "10-GEOG-0014",
-      "taboo_word": "Ben Nevis",
-      "hint_words": ["Scotland", "UK", "Tallest", "Mountain"],
+      "taboo_word": "Baton Rouge",
+      "hint_words": ["Louisiana", "Capital", "French", "Cajun"],
       "category": "Geography"
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "id": "10-GEOG-0017",
-      "taboo_word": "Seychelles",
-      "hint_words": ["Africa", "Islands", "Luxury", "Tourism"],
+      "taboo_word": "Shenzhen",
+      "hint_words": ["China", "Guangdong", "Technology", "Special Zone"],
       "category": "Geography"
     },
     {
@@ -231,14 +231,14 @@
     },
     {
       "id": "10-GEOG-0019",
-      "taboo_word": "Mont Saint-Michel",
-      "hint_words": ["France", "Island", "Monastery", "Tourism"],
+      "taboo_word": "Monterrey",
+      "hint_words": ["Mexico", "Cabrito", "Sierra Madre", "Industrial"],
       "category": "Geography"
     },
     {
       "id": "10-GEOG-0020",
-      "taboo_word": "Yellowstone Caldera",
-      "hint_words": ["USA", "Supervolcano", "Hot Springs", "National Park"],
+      "taboo_word": "Times Square",
+      "hint_words": ["New York", "Broadway", "Billboards", "New Year's Eve"],
       "category": "Geography"
     },
     {
@@ -442,7 +442,12 @@
     {
       "id": "11-ASTR-0014",
       "taboo_word": "Space Weather",
-      "hint_words": ["Solar Activity", "Magnetic Storms", "Impact", "Environment"],
+      "hint_words": [
+        "Solar Activity",
+        "Magnetic Storms",
+        "Impact",
+        "Environment"
+      ],
       "category": "Astronomy"
     },
     {
@@ -484,7 +489,12 @@
     {
       "id": "10-HIST-0001",
       "taboo_word": "John Locke",
-      "hint_words": ["Philosopher", "Enlightenment", "Natural Rights", "Two Treatises"],
+      "hint_words": [
+        "Philosopher",
+        "Enlightenment",
+        "Natural Rights",
+        "Two Treatises"
+      ],
       "category": "History"
     },
     {
@@ -532,7 +542,12 @@
     {
       "id": "10-HIST-0009",
       "taboo_word": "Robert Oppenheimer",
-      "hint_words": ["Physicist", "Nuclear", "Manhattan Project", "Atomic Bomb"],
+      "hint_words": [
+        "Physicist",
+        "Nuclear",
+        "Manhattan Project",
+        "Atomic Bomb"
+      ],
       "category": "History"
     },
     {
@@ -736,7 +751,12 @@
     {
       "id": "10-BOLL-0003",
       "taboo_word": "Danny Denzongpa",
-      "hint_words": ["Evil Roles", "Kaatilon Ke Kaatil", "Sikkim", "Unique Voice"],
+      "hint_words": [
+        "Evil Roles",
+        "Kaatilon Ke Kaatil",
+        "Sikkim",
+        "Unique Voice"
+      ],
       "category": "Bollywood"
     },
     {
@@ -760,13 +780,23 @@
     {
       "id": "10-BOLL-0007",
       "taboo_word": "Farida Jalal",
-      "hint_words": ["Mother Roles", "Dilwale Dulhania Le Jayenge", "Veteran Actress", "Versatile"],
+      "hint_words": [
+        "Mother Roles",
+        "Dilwale Dulhania Le Jayenge",
+        "Veteran Actress",
+        "Versatile"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "10-BOLL-0008",
       "taboo_word": "Tanuja",
-      "hint_words": ["Mere Jeevan Saathi", "Kajol’s Mother", "Actress", "70s Star"],
+      "hint_words": [
+        "Mere Jeevan Saathi",
+        "Kajol’s Mother",
+        "Actress",
+        "70s Star"
+      ],
       "category": "Bollywood"
     },
     {
@@ -784,7 +814,12 @@
     {
       "id": "10-BOLL-0011",
       "taboo_word": "Tezaab",
-      "hint_words": ["Ek Do Teen", "Anil Kapoor", "Madhuri Dixit", "Crime Drama"],
+      "hint_words": [
+        "Ek Do Teen",
+        "Anil Kapoor",
+        "Madhuri Dixit",
+        "Crime Drama"
+      ],
       "category": "Bollywood"
     },
     {
@@ -802,7 +837,12 @@
     {
       "id": "10-BOLL-0014",
       "taboo_word": "Vivah",
-      "hint_words": ["Family Drama", "Rajshri Productions", "Shahid Kapoor", "Amrita Rao"],
+      "hint_words": [
+        "Family Drama",
+        "Rajshri Productions",
+        "Shahid Kapoor",
+        "Amrita Rao"
+      ],
       "category": "Bollywood"
     },
     {
@@ -820,31 +860,56 @@
     {
       "id": "10-BOLL-0017",
       "taboo_word": "K. Vishwanath",
-      "hint_words": ["South Indian Director", "Sargam", "Shankarabharanam", "Musical Films"],
+      "hint_words": [
+        "South Indian Director",
+        "Sargam",
+        "Shankarabharanam",
+        "Musical Films"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "10-BOLL-0018",
       "taboo_word": "Naushad",
-      "hint_words": ["Music Director", "Classical Songs", "Baiju Bawra", "Timeless Tunes"],
+      "hint_words": [
+        "Music Director",
+        "Classical Songs",
+        "Baiju Bawra",
+        "Timeless Tunes"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "10-BOLL-0019",
       "taboo_word": "Shantanu Moitra",
-      "hint_words": ["Music Composer", "Parineeta", "3 Idiots", "Melodic Tunes"],
+      "hint_words": [
+        "Music Composer",
+        "Parineeta",
+        "3 Idiots",
+        "Melodic Tunes"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "10-BOLL-0020",
       "taboo_word": "Bappi Lahiri",
-      "hint_words": ["Disco King", "Gold Chains", "Mithun Chakraborty", "Energetic Music"],
+      "hint_words": [
+        "Disco King",
+        "Gold Chains",
+        "Mithun Chakraborty",
+        "Energetic Music"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "10-ARTS-0001",
       "taboo_word": "The Starry Night",
-      "hint_words": ["Vincent van Gogh", "Night Sky", "Reflection", "Impressionism"],
+      "hint_words": [
+        "Vincent van Gogh",
+        "Night Sky",
+        "Reflection",
+        "Impressionism"
+      ],
       "category": "Arts"
     },
     {
@@ -856,7 +921,12 @@
     {
       "id": "10-ARTS-0003",
       "taboo_word": "Paul Cézanne",
-      "hint_words": ["Post-Impressionism", "Still Life", "Mont Sainte-Victoire", "French"],
+      "hint_words": [
+        "Post-Impressionism",
+        "Still Life",
+        "Mont Sainte-Victoire",
+        "French"
+      ],
       "category": "Arts"
     },
     {
@@ -898,7 +968,12 @@
     {
       "id": "10-ARTS-0010",
       "taboo_word": "Gouache",
-      "hint_words": ["Opaque", "Water-Based", "Bright Colors", "Thicker than Watercolor"],
+      "hint_words": [
+        "Opaque",
+        "Water-Based",
+        "Bright Colors",
+        "Thicker than Watercolor"
+      ],
       "category": "Arts"
     },
     {
@@ -916,7 +991,12 @@
     {
       "id": "10-ARTS-0013",
       "taboo_word": "The National Gallery of Art",
-      "hint_words": ["Washington D.C.", "American", "Classic Art", "Smithsonian"],
+      "hint_words": [
+        "Washington D.C.",
+        "American",
+        "Classic Art",
+        "Smithsonian"
+      ],
       "category": "Arts"
     },
     {
@@ -1090,13 +1170,23 @@
     {
       "id": "10-MUSI-0002",
       "taboo_word": "Billy Joel",
-      "hint_words": ["Piano Man", "Uptown Girl", "New York", "We Didn't Start the Fire"],
+      "hint_words": [
+        "Piano Man",
+        "Uptown Girl",
+        "New York",
+        "We Didn't Start the Fire"
+      ],
       "category": "Music"
     },
     {
       "id": "10-MUSI-0003",
       "taboo_word": "Janis Joplin",
-      "hint_words": ["Piece of My Heart", "Me and Bobby McGee", "60s", "Psychedelic"],
+      "hint_words": [
+        "Piece of My Heart",
+        "Me and Bobby McGee",
+        "60s",
+        "Psychedelic"
+      ],
       "category": "Music"
     },
     {
@@ -1125,13 +1215,23 @@
     {
       "id": "10-MUSI-0007",
       "taboo_word": "Oasis",
-      "hint_words": ["Wonderwall", "Don't Look Back in Anger", "British", "90s"],
+      "hint_words": [
+        "Wonderwall",
+        "Don't Look Back in Anger",
+        "British",
+        "90s"
+      ],
       "category": "Music"
     },
     {
       "id": "10-MUSI-0008",
       "taboo_word": "Paramore",
-      "hint_words": ["Misery Business", "Hayley Williams", "Pop Punk", "Still Into You"],
+      "hint_words": [
+        "Misery Business",
+        "Hayley Williams",
+        "Pop Punk",
+        "Still Into You"
+      ],
       "category": "Music"
     },
     {
@@ -1173,7 +1273,12 @@
     {
       "id": "10-MUSI-0015",
       "taboo_word": "Dancing in the Dark",
-      "hint_words": ["Bruce Springsteen", "80s", "Born in the U.S.A.", "Synth Rock"],
+      "hint_words": [
+        "Bruce Springsteen",
+        "80s",
+        "Born in the U.S.A.",
+        "Synth Rock"
+      ],
       "category": "Music"
     },
     {
@@ -1251,7 +1356,12 @@
     {
       "id": "10-SCIE-0008",
       "taboo_word": "Law of Conservation of Energy",
-      "hint_words": ["Physics", "Energy", "Cannot be Created", "Cannot be Destroyed"],
+      "hint_words": [
+        "Physics",
+        "Energy",
+        "Cannot be Created",
+        "Cannot be Destroyed"
+      ],
       "category": "Science"
     },
     {

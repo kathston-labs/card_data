@@ -129,8 +129,8 @@
     },
     {
       "id": "02-GEOG-0002",
-      "taboo_word": "Mount McKinley",
-      "hint_words": ["Tallest", "Alaska", "Denali", "North America"],
+      "taboo_word": "Newfoundland",
+      "hint_words": ["Canada", "Icebergs", "Island", "Cod"],
       "category": "Geography"
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "id": "02-GEOG-0017",
-      "taboo_word": "Yangtze",
-      "hint_words": ["China", "Longest", "Asia", "Water"],
+      "taboo_word": "Windsor",
+      "hint_words": ["Royal", "Castle", "England", "King"],
       "category": "Geography"
     },
     {
@@ -484,13 +484,23 @@
     {
       "id": "02-HOLL-0001",
       "taboo_word": "Johnny Depp",
-      "hint_words": ["Pirates of the Caribbean", "Edward Scissorhands", "Jack Sparrow", "Actor"],
+      "hint_words": [
+        "Pirates of the Caribbean",
+        "Edward Scissorhands",
+        "Jack Sparrow",
+        "Actor"
+      ],
       "category": "Hollywood"
     },
     {
       "id": "02-HOLL-0002",
       "taboo_word": "Will Smith",
-      "hint_words": ["Men in Black", "The Fresh Prince", "Independence Day", "Oscar"],
+      "hint_words": [
+        "Men in Black",
+        "The Fresh Prince",
+        "Independence Day",
+        "Oscar"
+      ],
       "category": "Hollywood"
     },
     {
@@ -502,7 +512,12 @@
     {
       "id": "02-HOLL-0004",
       "taboo_word": "Morgan Freeman",
-      "hint_words": ["Shawshank Redemption", "Deep Voice", "Bruce Almighty", "Narrator"],
+      "hint_words": [
+        "Shawshank Redemption",
+        "Deep Voice",
+        "Bruce Almighty",
+        "Narrator"
+      ],
       "category": "Hollywood"
     },
     {
@@ -538,7 +553,12 @@
     {
       "id": "02-HOLL-0010",
       "taboo_word": "Anne Hathaway",
-      "hint_words": ["The Devil Wears Prada", "Les Misérables", "Princess Diaries", "Actress"],
+      "hint_words": [
+        "The Devil Wears Prada",
+        "Les Misérables",
+        "Princess Diaries",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
@@ -556,7 +576,12 @@
     {
       "id": "02-HOLL-0013",
       "taboo_word": "Pulp Fiction",
-      "hint_words": ["Quentin Tarantino", "John Travolta", "Samuel L. Jackson", "Classic"],
+      "hint_words": [
+        "Quentin Tarantino",
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Classic"
+      ],
       "category": "Hollywood"
     },
     {
@@ -568,7 +593,12 @@
     {
       "id": "02-HOLL-0015",
       "taboo_word": "Avatar",
-      "hint_words": ["Blue Aliens", "James Cameron", "Highest Grossing", "Pandora"],
+      "hint_words": [
+        "Blue Aliens",
+        "James Cameron",
+        "Highest Grossing",
+        "Pandora"
+      ],
       "category": "Hollywood"
     },
     {
@@ -616,7 +646,12 @@
     {
       "id": "02-BOLL-0003",
       "taboo_word": "Varun Dhawan",
-      "hint_words": ["Judwaa 2", "Badrinath Ki Dulhania", "Director's son", "Student of the Year"],
+      "hint_words": [
+        "Judwaa 2",
+        "Badrinath Ki Dulhania",
+        "Director's son",
+        "Student of the Year"
+      ],
       "category": "Bollywood"
     },
     {
@@ -628,13 +663,23 @@
     {
       "id": "02-BOLL-0005",
       "taboo_word": "Vicky Kaushal",
-      "hint_words": ["Sam Bahadur", "Theater Actor", "Talented", "Katrina Kaif"],
+      "hint_words": [
+        "Sam Bahadur",
+        "Theater Actor",
+        "Talented",
+        "Katrina Kaif"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "02-BOLL-0006",
       "taboo_word": "Anushka Sharma",
-      "hint_words": ["Virat Kohli", "Rab Ne Bana Di Jodi", "PK", "Ae Dil Hai Mushkil"],
+      "hint_words": [
+        "Virat Kohli",
+        "Rab Ne Bana Di Jodi",
+        "PK",
+        "Ae Dil Hai Mushkil"
+      ],
       "category": "Bollywood"
     },
     {
@@ -646,7 +691,12 @@
     {
       "id": "02-BOLL-0008",
       "taboo_word": "Parineeti Chopra",
-      "hint_words": ["Ishaqzaade", "Hasee Toh Phasee", "Singer", "Ladies vs Ricky Bahl"],
+      "hint_words": [
+        "Ishaqzaade",
+        "Hasee Toh Phasee",
+        "Singer",
+        "Ladies vs Ricky Bahl"
+      ],
       "category": "Bollywood"
     },
     {
@@ -688,7 +738,12 @@
     {
       "id": "02-BOLL-0015",
       "taboo_word": "Padman",
-      "hint_words": ["Akshay Kumar", "Sanitary Pads", "Social Issue", "Inspiring"],
+      "hint_words": [
+        "Akshay Kumar",
+        "Sanitary Pads",
+        "Social Issue",
+        "Inspiring"
+      ],
       "category": "Bollywood"
     },
     {
@@ -718,19 +773,34 @@
     {
       "id": "02-BOLL-0020",
       "taboo_word": "Sonu Nigam",
-      "hint_words": ["Singer", "Kal Ho Naa Ho", "Sandese Aate Hain", "Sa Re Ga Ma"],
+      "hint_words": [
+        "Singer",
+        "Kal Ho Naa Ho",
+        "Sandese Aate Hain",
+        "Sa Re Ga Ma"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "02-ARTS-0001",
       "taboo_word": "The Last Supper",
-      "hint_words": ["Jesus", "Apostles", "Leonardo da Vinci", "Famous Painting"],
+      "hint_words": [
+        "Jesus",
+        "Apostles",
+        "Leonardo da Vinci",
+        "Famous Painting"
+      ],
       "category": "Arts"
     },
     {
       "id": "02-ARTS-0002",
       "taboo_word": "The Scream",
-      "hint_words": ["Edvard Munch", "Expressionism", "Wavy Lines", "Norwegian"],
+      "hint_words": [
+        "Edvard Munch",
+        "Expressionism",
+        "Wavy Lines",
+        "Norwegian"
+      ],
       "category": "Arts"
     },
     {
@@ -970,7 +1040,12 @@
     {
       "id": "02-MUSI-0002",
       "taboo_word": "Whitney Houston",
-      "hint_words": ["I Will Always Love You", "The Bodyguard", "Powerful Voice", "Diva"],
+      "hint_words": [
+        "I Will Always Love You",
+        "The Bodyguard",
+        "Powerful Voice",
+        "Diva"
+      ],
       "category": "Music"
     },
     {
@@ -988,19 +1063,34 @@
     {
       "id": "02-MUSI-0005",
       "taboo_word": "Pink Floyd",
-      "hint_words": ["Rock Band", "The Wall", "Dark Side of the Moon", "Psychedelic"],
+      "hint_words": [
+        "Rock Band",
+        "The Wall",
+        "Dark Side of the Moon",
+        "Psychedelic"
+      ],
       "category": "Music"
     },
     {
       "id": "02-MUSI-0006",
       "taboo_word": "Queen",
-      "hint_words": ["Freddie Mercury", "We Will Rock You", "British", "Bohemian Rhapsody"],
+      "hint_words": [
+        "Freddie Mercury",
+        "We Will Rock You",
+        "British",
+        "Bohemian Rhapsody"
+      ],
       "category": "Music"
     },
     {
       "id": "02-MUSI-0007",
       "taboo_word": "The Eagles",
-      "hint_words": ["Rock Band", "Hotel California", "Take It Easy", "Desperado"],
+      "hint_words": [
+        "Rock Band",
+        "Hotel California",
+        "Take It Easy",
+        "Desperado"
+      ],
       "category": "Music"
     },
     {
@@ -1096,7 +1186,12 @@
     {
       "id": "02-SCIE-0003",
       "taboo_word": "Charles Darwin",
-      "hint_words": ["Evolution", "Natural Selection", "The Origin of Species", "Biologist"],
+      "hint_words": [
+        "Evolution",
+        "Natural Selection",
+        "The Origin of Species",
+        "Biologist"
+      ],
       "category": "Science"
     },
     {

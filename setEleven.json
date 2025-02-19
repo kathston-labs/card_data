@@ -147,14 +147,14 @@
     },
     {
       "id": "11-GEOG-0005",
-      "taboo_word": "Volga River",
-      "hint_words": ["Russia", "Longest", "Europe", "Water"],
+      "taboo_word": "Wuhan",
+      "hint_words": ["China", "Hubei", "Yangtze", "Pandemic"],
       "category": "Geography"
     },
     {
       "id": "11-GEOG-0006",
-      "taboo_word": "Mount Whitney",
-      "hint_words": ["USA", "California", "Tallest", "Sierra Nevada"],
+      "taboo_word": "Liverpool",
+      "hint_words": ["West", "Merseyside", "Beatles", "Anfield"],
       "category": "Geography"
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "id": "11-GEOG-0010",
-      "taboo_word": "Machu Picchu",
-      "hint_words": ["Peru", "Inca", "Ruins", "Ancient"],
+      "taboo_word": "Mongolia",
+      "hint_words": ["Asia", "Nomadic", "Desert", "Genghis Khan"],
       "category": "Geography"
     },
     {
@@ -207,8 +207,8 @@
     },
     {
       "id": "11-GEOG-0015",
-      "taboo_word": "Bruges",
-      "hint_words": ["Belgium", "Canals", "Historic", "Tourism"],
+      "taboo_word": "Banff National Park",
+      "hint_words": ["Canada", "Mountains", "Rockies", "Breath-taking"],
       "category": "Geography"
     },
     {
@@ -219,26 +219,26 @@
     },
     {
       "id": "11-GEOG-0017",
-      "taboo_word": "Himalayan Foothills",
-      "hint_words": ["India", "Nepal", "Mountains", "Base"],
+      "taboo_word": "Hungary",
+      "hint_words": ["Europe", "Budapest", "River", "Capital"],
       "category": "Geography"
     },
     {
       "id": "11-GEOG-0018",
-      "taboo_word": "Baffin Bay",
-      "hint_words": ["Canada", "Water", "Cold", "Arctic"],
+      "taboo_word": "Bordeaux",
+      "hint_words": ["France", "Wine", "Chateau", "Grapes"],
       "category": "Geography"
     },
     {
       "id": "11-GEOG-0019",
-      "taboo_word": "Ephesus",
-      "hint_words": ["Turkey", "Ancient", "Ruins", "Temple"],
+      "taboo_word": "Europe",
+      "hint_words": ["Continent", "France", "Germany", "Italy"],
       "category": "Geography"
     },
     {
       "id": "11-GEOG-0020",
-      "taboo_word": "Plitvice Lakes",
-      "hint_words": ["Croatia", "Waterfalls", "Nature", "Tourism"],
+      "taboo_word": "Pyongyang",
+      "hint_words": ["North Korea", "Capital", "Kim Jong-un", "Forbidden"],
       "category": "Geography"
     },
     {
@@ -514,7 +514,12 @@
     {
       "id": "11-BOLL-0006",
       "taboo_word": "Vyjayanthimala",
-      "hint_words": ["Classical Dancer", "Madhumati", "Versatile", "South Indian"],
+      "hint_words": [
+        "Classical Dancer",
+        "Madhumati",
+        "Versatile",
+        "South Indian"
+      ],
       "category": "Bollywood"
     },
     {
@@ -526,13 +531,23 @@
     {
       "id": "11-BOLL-0008",
       "taboo_word": "Rohini Hattangadi",
-      "hint_words": ["Gandhi", "Mother Roles", "Character Actress", "Strong Performances"],
+      "hint_words": [
+        "Gandhi",
+        "Mother Roles",
+        "Character Actress",
+        "Strong Performances"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "11-BOLL-0009",
       "taboo_word": "Karisma Kapoor",
-      "hint_words": ["90s Superstar", "Raja Hindustani", "Govinda Pair", "Dance Queen"],
+      "hint_words": [
+        "90s Superstar",
+        "Raja Hindustani",
+        "Govinda Pair",
+        "Dance Queen"
+      ],
       "category": "Bollywood"
     },
     {
@@ -550,7 +565,12 @@
     {
       "id": "11-BOLL-0012",
       "taboo_word": "Mohabbatein",
-      "hint_words": ["Amitabh Bachchan", "Shah Rukh Khan", "Love Stories", "Music"],
+      "hint_words": [
+        "Amitabh Bachchan",
+        "Shah Rukh Khan",
+        "Love Stories",
+        "Music"
+      ],
       "category": "Bollywood"
     },
     {
@@ -562,7 +582,12 @@
     {
       "id": "11-BOLL-0014",
       "taboo_word": "Bunty Aur Babli",
-      "hint_words": ["Con Artists", "Abhishek Bachchan", "Rani Mukerji", "Fun Movie"],
+      "hint_words": [
+        "Con Artists",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Fun Movie"
+      ],
       "category": "Bollywood"
     },
     {
@@ -580,13 +605,23 @@
     {
       "id": "11-BOLL-0017",
       "taboo_word": "Sai Paranjpye",
-      "hint_words": ["Director", "Chashme Buddoor", "Slice of Life", "Art Films"],
+      "hint_words": [
+        "Director",
+        "Chashme Buddoor",
+        "Slice of Life",
+        "Art Films"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "11-BOLL-0018",
       "taboo_word": "Ilaiyaraaja",
-      "hint_words": ["Music Composer", "South Indian Influence", "Timeless Hits", "Melody King"],
+      "hint_words": [
+        "Music Composer",
+        "South Indian Influence",
+        "Timeless Hits",
+        "Melody King"
+      ],
       "category": "Bollywood"
     },
     {
@@ -856,7 +891,12 @@
     {
       "id": "11-MUSI-0003",
       "taboo_word": "Diana Ross",
-      "hint_words": ["The Supremes", "Ain't No Mountain High Enough", "Motown", "Disco"],
+      "hint_words": [
+        "The Supremes",
+        "Ain't No Mountain High Enough",
+        "Motown",
+        "Disco"
+      ],
       "category": "Music"
     },
     {
@@ -868,7 +908,12 @@
     {
       "id": "11-MUSI-0005",
       "taboo_word": "The Smiths",
-      "hint_words": ["Morrissey", "There Is a Light That Never Goes Out", "80s", "Indie Rock"],
+      "hint_words": [
+        "Morrissey",
+        "There Is a Light That Never Goes Out",
+        "80s",
+        "Indie Rock"
+      ],
       "category": "Music"
     },
     {
@@ -880,13 +925,23 @@
     {
       "id": "11-MUSI-0007",
       "taboo_word": "Blink-182",
-      "hint_words": ["All the Small Things", "Pop Punk", "Travis Barker", "90s"],
+      "hint_words": [
+        "All the Small Things",
+        "Pop Punk",
+        "Travis Barker",
+        "90s"
+      ],
       "category": "Music"
     },
     {
       "id": "11-MUSI-0008",
       "taboo_word": "Florence + The Machine",
-      "hint_words": ["Dog Days Are Over", "Indie Rock", "British", "Ceremonials"],
+      "hint_words": [
+        "Dog Days Are Over",
+        "Indie Rock",
+        "British",
+        "Ceremonials"
+      ],
       "category": "Music"
     },
     {
@@ -898,7 +953,12 @@
     {
       "id": "11-MUSI-0010",
       "taboo_word": "Didgeridoo",
-      "hint_words": ["Australia", "Wind Instrument", "Aboriginal", "Deep Sound"],
+      "hint_words": [
+        "Australia",
+        "Wind Instrument",
+        "Aboriginal",
+        "Deep Sound"
+      ],
       "category": "Music"
     },
     {
@@ -916,7 +976,12 @@
     {
       "id": "11-MUSI-0013",
       "taboo_word": "California Dreamin'",
-      "hint_words": ["The Mamas & The Papas", "60s", "Folk Rock", "Golden State"],
+      "hint_words": [
+        "The Mamas & The Papas",
+        "60s",
+        "Folk Rock",
+        "Golden State"
+      ],
       "category": "Music"
     },
     {
@@ -1066,7 +1131,12 @@
     {
       "id": "11-SCIE-0018",
       "taboo_word": "Radiowaves",
-      "hint_words": ["Electromagnetic Spectrum", "Communication", "Broadcast", "Transmission"],
+      "hint_words": [
+        "Electromagnetic Spectrum",
+        "Communication",
+        "Broadcast",
+        "Transmission"
+      ],
       "category": "Science"
     },
     {

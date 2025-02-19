@@ -147,20 +147,20 @@
     },
     {
       "id": "14-GEOG-0005",
-      "taboo_word": "Douro River",
-      "hint_words": ["Portugal", "Wine", "Spain", "Flow"],
+      "taboo_word": "Death Valley",
+      "hint_words": ["California", "Hot", "Desert", "Arid"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0006",
-      "taboo_word": "Mount Roraima",
-      "hint_words": ["Venezuela", "Flat Top", "South America", "Tepui"],
+      "taboo_word": "New Hampshire",
+      "hint_words": ["Granite", "White Mountains", "New England", "Concord"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0007",
-      "taboo_word": "Ljubljana",
-      "hint_words": ["Slovenia", "Capital", "River", "Historic"],
+      "taboo_word": "Lima",
+      "hint_words": ["Peru", "Capital", "Ancient", "Inca"],
       "category": "Geography"
     },
     {
@@ -171,8 +171,8 @@
     },
     {
       "id": "14-GEOG-0009",
-      "taboo_word": "Hainan",
-      "hint_words": ["China", "Island", "Tropical", "Beaches"],
+      "taboo_word": "Glasgow",
+      "hint_words": ["Scotland", "City", "United Kingdom", "Clyde"],
       "category": "Geography"
     },
     {
@@ -183,32 +183,32 @@
     },
     {
       "id": "14-GEOG-0011",
-      "taboo_word": "Lake Maracaibo",
-      "hint_words": ["Venezuela", "Lightning", "Largest", "South America"],
+      "taboo_word": "Croatia",
+      "hint_words": ["Europe", "Zagreb", "Adriatic", "Beaches"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0012",
-      "taboo_word": "Comoros",
-      "hint_words": ["Africa", "Islands", "Indian Ocean", "Volcanic"],
+      "taboo_word": "Chicago",
+      "hint_words": ["Illinois", "Skyscrapers", "Windy City", "Lake Michigan"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0013",
-      "taboo_word": "Dasht-e Kavir",
-      "hint_words": ["Iran", "Desert", "Salt", "Hot"],
+      "taboo_word": "Dallas",
+      "hint_words": ["Texas", "Cowboys", "Fort Worth", "JFK"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0014",
-      "taboo_word": "Apennine Mountains",
-      "hint_words": ["Italy", "Range", "Central", "Hiking"],
+      "taboo_word": "Amsterdam",
+      "hint_words": ["Netherlands", "Canals", "Windmills", "Cycling"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0015",
-      "taboo_word": "Andorra",
-      "hint_words": ["Europe", "Small", "Pyrenees", "Tourist"],
+      "taboo_word": "Alexandria",
+      "hint_words": ["Egypt", "Ancient", "Nile", "Library"],
       "category": "Geography"
     },
     {
@@ -219,20 +219,20 @@
     },
     {
       "id": "14-GEOG-0017",
-      "taboo_word": "Tien Shan",
-      "hint_words": ["Asia", "Mountains", "Kyrgyzstan", "Range"],
+      "taboo_word": "Ukraine",
+      "hint_words": ["Europe", "Kiev", "Crimea", "Soviet"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0018",
-      "taboo_word": "Gulf of Bothnia",
-      "hint_words": ["Sweden", "Finland", "Water", "Baltic"],
+      "taboo_word": "Georgia",
+      "hint_words": ["Atlanta", "US State", "South", "Jimmy Carter"],
       "category": "Geography"
     },
     {
       "id": "14-GEOG-0019",
-      "taboo_word": "Karnak Temple",
-      "hint_words": ["Egypt", "Ancient", "Columns", "Tourism"],
+      "taboo_word": "Kazakhstan",
+      "hint_words": ["Central Asia", "Astana", "Steppe", "Soviet"],
       "category": "Geography"
     },
     {
@@ -610,7 +610,12 @@
     {
       "id": "14-BOLL-0002",
       "taboo_word": "Jimmy Sheirgill",
-      "hint_words": ["Tanu Weds Manu", "Saheb Biwi Aur Gangster", "Underrated", "Supporting Actor"],
+      "hint_words": [
+        "Tanu Weds Manu",
+        "Saheb Biwi Aur Gangster",
+        "Underrated",
+        "Supporting Actor"
+      ],
       "category": "Bollywood"
     },
     {
@@ -634,13 +639,23 @@
     {
       "id": "14-BOLL-0006",
       "taboo_word": "Jodha Akbar",
-      "hint_words": ["Historical", "Hrithik Roshan", "Aishwarya Rai", "Mughal Era"],
+      "hint_words": [
+        "Historical",
+        "Hrithik Roshan",
+        "Aishwarya Rai",
+        "Mughal Era"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "14-BOLL-0007",
       "taboo_word": "Badlapur",
-      "hint_words": ["Revenge", "Varun Dhawan", "Dark Thriller", "Sriram Raghavan"],
+      "hint_words": [
+        "Revenge",
+        "Varun Dhawan",
+        "Dark Thriller",
+        "Sriram Raghavan"
+      ],
       "category": "Bollywood"
     },
     {
@@ -657,7 +672,12 @@
     {
       "id": "14-BOLL-0009",
       "taboo_word": "Masti",
-      "hint_words": ["Comedy", "Riteish Deshmukh", "Aftab Shivdasani", "Adult Humor"],
+      "hint_words": [
+        "Comedy",
+        "Riteish Deshmukh",
+        "Aftab Shivdasani",
+        "Adult Humor"
+      ],
       "category": "Bollywood"
     },
     {
@@ -687,19 +707,34 @@
     {
       "id": "14-BOLL-0014",
       "taboo_word": "Oh My God",
-      "hint_words": ["Paresh Rawal", "Religious Satire", "Akshay Kumar", "Courtroom Drama"],
+      "hint_words": [
+        "Paresh Rawal",
+        "Religious Satire",
+        "Akshay Kumar",
+        "Courtroom Drama"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "14-BOLL-0015",
       "taboo_word": "Lootera",
-      "hint_words": ["Ranveer Singh", "Sonakshi Sinha", "Historical", "Tragic Love Story"],
+      "hint_words": [
+        "Ranveer Singh",
+        "Sonakshi Sinha",
+        "Historical",
+        "Tragic Love Story"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "14-BOLL-0016",
       "taboo_word": "Bodyguard",
-      "hint_words": ["Salman Khan", "Kareena Kapoor", "Action", "Romantic Thriller"],
+      "hint_words": [
+        "Salman Khan",
+        "Kareena Kapoor",
+        "Action",
+        "Romantic Thriller"
+      ],
       "category": "Bollywood"
     },
     {
@@ -711,7 +746,12 @@
     {
       "id": "14-BOLL-0018",
       "taboo_word": "Dum Laga Ke Haisha",
-      "hint_words": ["Ayushmann Khurrana", "Bhumi Pednekar", "90s Nostalgia", "Marriage"],
+      "hint_words": [
+        "Ayushmann Khurrana",
+        "Bhumi Pednekar",
+        "90s Nostalgia",
+        "Marriage"
+      ],
       "category": "Bollywood"
     },
     {
@@ -723,7 +763,12 @@
     {
       "id": "14-BOLL-0020",
       "taboo_word": "Bajrangi Bhaijaan",
-      "hint_words": ["Salman Khan", "Pakistan", "Harshaali Malhotra", "Emotional"],
+      "hint_words": [
+        "Salman Khan",
+        "Pakistan",
+        "Harshaali Malhotra",
+        "Emotional"
+      ],
       "category": "Bollywood"
     },
     {
@@ -987,7 +1032,12 @@
     {
       "id": "14-MUSI-0004",
       "taboo_word": "Camille Saint-Saëns",
-      "hint_words": ["The Carnival of the Animals", "Classical", "French", "Composer"],
+      "hint_words": [
+        "The Carnival of the Animals",
+        "Classical",
+        "French",
+        "Composer"
+      ],
       "category": "Music"
     },
     {
@@ -999,7 +1049,12 @@
     {
       "id": "14-MUSI-0006",
       "taboo_word": "The White Stripes",
-      "hint_words": ["Jack White", "Fell in Love with a Girl", "Garage Rock", "Duo"],
+      "hint_words": [
+        "Jack White",
+        "Fell in Love with a Girl",
+        "Garage Rock",
+        "Duo"
+      ],
       "category": "Music"
     },
     {
@@ -1011,7 +1066,12 @@
     {
       "id": "14-MUSI-0008",
       "taboo_word": "Arctic Monkeys",
-      "hint_words": ["Do I Wanna Know?", "Indie Rock", "British", "Alex Turner"],
+      "hint_words": [
+        "Do I Wanna Know?",
+        "Indie Rock",
+        "British",
+        "Alex Turner"
+      ],
       "category": "Music"
     },
     {
@@ -1035,7 +1095,12 @@
     {
       "id": "14-MUSI-0012",
       "taboo_word": "J. Cole",
-      "hint_words": ["Middle Child", "Dreamville", "Conscious Rap", "North Carolina"],
+      "hint_words": [
+        "Middle Child",
+        "Dreamville",
+        "Conscious Rap",
+        "North Carolina"
+      ],
       "category": "Music"
     },
     {
@@ -1053,7 +1118,12 @@
     {
       "id": "14-MUSI-0015",
       "taboo_word": "Don't Let the Sun Go Down on Me",
-      "hint_words": ["Elton John", "George Michael", "Ballad", "Live Performance"],
+      "hint_words": [
+        "Elton John",
+        "George Michael",
+        "Ballad",
+        "Live Performance"
+      ],
       "category": "Music"
     },
     {

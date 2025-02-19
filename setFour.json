@@ -124,7 +124,12 @@
     {
       "id": "04-GEOG-0001",
       "taboo_word": "United States",
-      "hint_words": ["North America", "50 States", "Washington D.C.", "Country"],
+      "hint_words": [
+        "North America",
+        "50 States",
+        "Washington D.C.",
+        "Country"
+      ],
       "category": "Geography"
     },
     {
@@ -171,20 +176,20 @@
     },
     {
       "id": "04-GEOG-0009",
-      "taboo_word": "Yellow River",
-      "hint_words": ["China", "Flow", "Water", "Asia"],
+      "taboo_word": "Yorkshire",
+      "hint_words": ["England", "County", "Leeds", "Brontë"],
       "category": "Geography"
     },
     {
       "id": "04-GEOG-0010",
-      "taboo_word": "Dubai",
-      "hint_words": ["UAE", "Skyscrapers", "Luxury", "Desert"],
+      "taboo_word": "Drake Passage",
+      "hint_words": ["Antarctica", "Waves", "Icebergs", "Ocean"],
       "category": "Geography"
     },
     {
       "id": "04-GEOG-0011",
-      "taboo_word": "Sahara",
-      "hint_words": ["Africa", "Hot", "Dunes", "Largest"],
+      "taboo_word": "San Diego",
+      "hint_words": ["California", "South", "Mexico", "Border"],
       "category": "Geography"
     },
     {
@@ -201,14 +206,14 @@
     },
     {
       "id": "04-GEOG-0014",
-      "taboo_word": "Huangshan",
-      "hint_words": ["China", "Mountains", "Yellow", "Peaks"],
+      "taboo_word": "Hiroshima",
+      "hint_words": ["Japan", "Atomic Bomb", "World War II", "Nagasaki"],
       "category": "Geography"
     },
     {
       "id": "04-GEOG-0015",
-      "taboo_word": "Congo River",
-      "hint_words": ["Africa", "Deepest", "Water", "Flow"],
+      "taboo_word": "Cancun",
+      "hint_words": ["Mexico", "Beaches", "Resort", "Mayan"],
       "category": "Geography"
     },
     {
@@ -225,8 +230,8 @@
     },
     {
       "id": "04-GEOG-0018",
-      "taboo_word": "Siberian Plain",
-      "hint_words": ["Russia", "Flat", "Cold", "Large"],
+      "taboo_word": "Sofia",
+      "hint_words": ["Bulgaria", "Capital", "Balkans", "Roman"],
       "category": "Geography"
     },
     {
@@ -237,14 +242,19 @@
     },
     {
       "id": "04-GEOG-0020",
-      "taboo_word": "Acropolis",
-      "hint_words": ["Greece", "Athens", "Ancient", "Parthenon"],
+      "taboo_word": "Alabama",
+      "hint_words": ["Sweet Home", "South", "Roll Tide", "Birmingham"],
       "category": "Geography"
     },
     {
       "id": "04-ASTR-0001",
       "taboo_word": "Annie Jump Cannon",
-      "hint_words": ["Stellar classification", "Spectra", "Astronomer", "Harvard"],
+      "hint_words": [
+        "Stellar classification",
+        "Spectra",
+        "Astronomer",
+        "Harvard"
+      ],
       "category": "Astronomy"
     },
     {
@@ -370,7 +380,12 @@
     {
       "id": "04-HIST-0002",
       "taboo_word": "John F. Kennedy",
-      "hint_words": ["President", "1960s", "Cuban Missile Crisis", "Assassinated"],
+      "hint_words": [
+        "President",
+        "1960s",
+        "Cuban Missile Crisis",
+        "Assassinated"
+      ],
       "category": "History"
     },
     {
@@ -388,7 +403,12 @@
     {
       "id": "04-HIST-0005",
       "taboo_word": "Byzantine Empire",
-      "hint_words": ["Eastern Roman", "Constantinople", "Justinian", "Orthodox"],
+      "hint_words": [
+        "Eastern Roman",
+        "Constantinople",
+        "Justinian",
+        "Orthodox"
+      ],
       "category": "History"
     },
     {
@@ -502,7 +522,12 @@
     {
       "id": "04-HOLL-0004",
       "taboo_word": "Matthew McConaughey",
-      "hint_words": ["Interstellar", "Dallas Buyers Club", "Alright Alright Alright", "Actor"],
+      "hint_words": [
+        "Interstellar",
+        "Dallas Buyers Club",
+        "Alright Alright Alright",
+        "Actor"
+      ],
       "category": "Hollywood"
     },
     {
@@ -532,13 +557,23 @@
     {
       "id": "04-HOLL-0009",
       "taboo_word": "Zoe Saldana",
-      "hint_words": ["Guardians of the Galaxy", "Avatar", "Star Trek", "Actress"],
+      "hint_words": [
+        "Guardians of the Galaxy",
+        "Avatar",
+        "Star Trek",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
       "id": "04-HOLL-0010",
       "taboo_word": "Anne Hathaway",
-      "hint_words": ["The Devil Wears Prada", "Les Misérables", "Catwoman", "Actress"],
+      "hint_words": [
+        "The Devil Wears Prada",
+        "Les Misérables",
+        "Catwoman",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
@@ -556,7 +591,12 @@
     {
       "id": "04-HOLL-0013",
       "taboo_word": "The Terminator",
-      "hint_words": ["Arnold Schwarzenegger", "I'll Be Back", "Sci-Fi", "Movie"],
+      "hint_words": [
+        "Arnold Schwarzenegger",
+        "I'll Be Back",
+        "Sci-Fi",
+        "Movie"
+      ],
       "category": "Hollywood"
     },
     {
@@ -568,7 +608,12 @@
     {
       "id": "04-HOLL-0015",
       "taboo_word": "Casablanca",
-      "hint_words": ["Classic", "Romance", "Here's Looking at You Kid", "Movie"],
+      "hint_words": [
+        "Classic",
+        "Romance",
+        "Here's Looking at You Kid",
+        "Movie"
+      ],
       "category": "Hollywood"
     },
     {
@@ -592,7 +637,12 @@
     {
       "id": "04-HOLL-0019",
       "taboo_word": "Movie Premiere",
-      "hint_words": ["Red Carpet", "First Screening", "Celebrities", "Hollywood"],
+      "hint_words": [
+        "Red Carpet",
+        "First Screening",
+        "Celebrities",
+        "Hollywood"
+      ],
       "category": "Hollywood"
     },
     {
@@ -622,7 +672,12 @@
     {
       "id": "04-BOLL-0004",
       "taboo_word": "Kartik Aaryan",
-      "hint_words": ["Pyaar Ka Punchnama", "Bhool Bhulaiyaa 2", "Dhamaka", "Shehzada"],
+      "hint_words": [
+        "Pyaar Ka Punchnama",
+        "Bhool Bhulaiyaa 2",
+        "Dhamaka",
+        "Shehzada"
+      ],
       "category": "Bollywood"
     },
     {
@@ -651,13 +706,23 @@
     {
       "id": "04-BOLL-0008",
       "taboo_word": "Aishwarya Rai",
-      "hint_words": ["Miss World", "Kajra Re", "Beautiful", "Abhishek Bachchan"],
+      "hint_words": [
+        "Miss World",
+        "Kajra Re",
+        "Beautiful",
+        "Abhishek Bachchan"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "04-BOLL-0009",
       "taboo_word": "Nushrratt Bharuccha",
-      "hint_words": ["Sonu Ke Titu Ki Sweety", "Pyaar Ka Punchnama", "TV Actress", "Ram Setu"],
+      "hint_words": [
+        "Sonu Ke Titu Ki Sweety",
+        "Pyaar Ka Punchnama",
+        "TV Actress",
+        "Ram Setu"
+      ],
       "category": "Bollywood"
     },
     {
@@ -669,13 +734,23 @@
     {
       "id": "04-BOLL-0011",
       "taboo_word": "Don",
-      "hint_words": ["Remake", "Amitabh Bachchan", "Shah Rukh Khan", "Crime Thriller"],
+      "hint_words": [
+        "Remake",
+        "Amitabh Bachchan",
+        "Shah Rukh Khan",
+        "Crime Thriller"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "04-BOLL-0012",
       "taboo_word": "Gangubai Kathiawadi",
-      "hint_words": ["Mafia Queen", "Biopic", "Alia Bhatt", "Sanjay Leela Bhansali"],
+      "hint_words": [
+        "Mafia Queen",
+        "Biopic",
+        "Alia Bhatt",
+        "Sanjay Leela Bhansali"
+      ],
       "category": "Bollywood"
     },
     {
@@ -969,13 +1044,23 @@
     {
       "id": "04-MUSI-0001",
       "taboo_word": "Adele",
-      "hint_words": ["Hello", "Rolling in the Deep", "British", "Powerful Voice"],
+      "hint_words": [
+        "Hello",
+        "Rolling in the Deep",
+        "British",
+        "Powerful Voice"
+      ],
       "category": "Music"
     },
     {
       "id": "04-MUSI-0002",
       "taboo_word": "Mariah Carey",
-      "hint_words": ["High Notes", "All I Want for Christmas", "Diva", "Songbird Supreme"],
+      "hint_words": [
+        "High Notes",
+        "All I Want for Christmas",
+        "Diva",
+        "Songbird Supreme"
+      ],
       "category": "Music"
     },
     {
@@ -999,7 +1084,12 @@
     {
       "id": "04-MUSI-0006",
       "taboo_word": "The Doors",
-      "hint_words": ["Jim Morrison", "Light My Fire", "Break on Through", "Psychedelic"],
+      "hint_words": [
+        "Jim Morrison",
+        "Light My Fire",
+        "Break on Through",
+        "Psychedelic"
+      ],
       "category": "Music"
     },
     {
@@ -1089,7 +1179,12 @@
     {
       "id": "04-SCIE-0001",
       "taboo_word": "Louis Pasteur",
-      "hint_words": ["Pasteurization", "Germ Theory", "Rabies Vaccine", "Microbiology"],
+      "hint_words": [
+        "Pasteurization",
+        "Germ Theory",
+        "Rabies Vaccine",
+        "Microbiology"
+      ],
       "category": "Science"
     },
     {

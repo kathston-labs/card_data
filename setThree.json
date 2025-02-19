@@ -153,14 +153,14 @@
     },
     {
       "id": "03-GEOG-0006",
-      "taboo_word": "Zambezi",
-      "hint_words": ["Africa", "Long", "Flows", "Water"],
+      "taboo_word": "Aspen",
+      "hint_words": ["Colorado", "Skiing", "Mountains", "Resort"],
       "category": "Geography"
     },
     {
       "id": "03-GEOG-0007",
-      "taboo_word": "Mount Etna",
-      "hint_words": ["Italy", "Volcano", "Eruption", "Sicily"],
+      "taboo_word": "Napa Valley",
+      "hint_words": ["California", "Wine", "Scenic", "Vineyards"],
       "category": "Geography"
     },
     {
@@ -195,8 +195,8 @@
     },
     {
       "id": "03-GEOG-0013",
-      "taboo_word": "Victoria Harbour",
-      "hint_words": ["Hong Kong", "Port", "China", "Water"],
+      "taboo_word": "Vail",
+      "hint_words": ["Colorado", "Snow", "Skiing", "Resort"],
       "category": "Geography"
     },
     {
@@ -244,13 +244,23 @@
     {
       "id": "03-ASTR-0001",
       "taboo_word": "Edwin Hubble",
-      "hint_words": ["Astronomer", "Expanding Universe", "Hubble's Law", "Observations"],
+      "hint_words": [
+        "Astronomer",
+        "Expanding Universe",
+        "Hubble's Law",
+        "Observations"
+      ],
       "category": "Astronomy"
     },
     {
       "id": "03-ASTR-0002",
       "taboo_word": "Henrietta Leavitt",
-      "hint_words": ["Variable Stars", "Cepheids", "Luminosity", "Observations"],
+      "hint_words": [
+        "Variable Stars",
+        "Cepheids",
+        "Luminosity",
+        "Observations"
+      ],
       "category": "Astronomy"
     },
     {
@@ -364,7 +374,12 @@
     {
       "id": "03-HIST-0001",
       "taboo_word": "Theodore Roosevelt",
-      "hint_words": ["President", "Rough Riders", "Panama Canal", "Progressive"],
+      "hint_words": [
+        "President",
+        "Rough Riders",
+        "Panama Canal",
+        "Progressive"
+      ],
       "category": "History"
     },
     {
@@ -382,7 +397,12 @@
     {
       "id": "03-HIST-0004",
       "taboo_word": "Battle of Yorktown",
-      "hint_words": ["American Revolution", "Cornwallis", "Surrender", "Virginia"],
+      "hint_words": [
+        "American Revolution",
+        "Cornwallis",
+        "Surrender",
+        "Virginia"
+      ],
       "category": "History"
     },
     {
@@ -412,7 +432,12 @@
     {
       "id": "03-HIST-0009",
       "taboo_word": "Great Depression",
-      "hint_words": ["Stock Market", "1930s", "Unemployment", "Economic Crisis"],
+      "hint_words": [
+        "Stock Market",
+        "1930s",
+        "Unemployment",
+        "Economic Crisis"
+      ],
       "category": "History"
     },
     {
@@ -520,13 +545,23 @@
     {
       "id": "03-HOLL-0007",
       "taboo_word": "Emma Watson",
-      "hint_words": ["Harry Potter", "Hermione", "Beauty and the Beast", "Actress"],
+      "hint_words": [
+        "Harry Potter",
+        "Hermione",
+        "Beauty and the Beast",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
       "id": "03-HOLL-0008",
       "taboo_word": "Nicole Kidman",
-      "hint_words": ["Moulin Rouge", "Big Little Lies", "Australian", "Actress"],
+      "hint_words": [
+        "Moulin Rouge",
+        "Big Little Lies",
+        "Australian",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
@@ -550,7 +585,12 @@
     {
       "id": "03-HOLL-0012",
       "taboo_word": "Inception",
-      "hint_words": ["Dream", "Christopher Nolan", "Leonardo DiCaprio", "Mind-Bending"],
+      "hint_words": [
+        "Dream",
+        "Christopher Nolan",
+        "Leonardo DiCaprio",
+        "Mind-Bending"
+      ],
       "category": "Hollywood"
     },
     {
@@ -562,7 +602,12 @@
     {
       "id": "03-HOLL-0014",
       "taboo_word": "Gladiator",
-      "hint_words": ["Russell Crowe", "Are You Not Entertained?", "Rome", "Battle"],
+      "hint_words": [
+        "Russell Crowe",
+        "Are You Not Entertained?",
+        "Rome",
+        "Battle"
+      ],
       "category": "Hollywood"
     },
     {
@@ -585,7 +630,12 @@
     {
       "id": "03-HOLL-0017",
       "taboo_word": "Francis Ford Coppola",
-      "hint_words": ["The Godfather", "Apocalypse Now", "Director", "Hollywood"],
+      "hint_words": [
+        "The Godfather",
+        "Apocalypse Now",
+        "Director",
+        "Hollywood"
+      ],
       "category": "Hollywood"
     },
     {
@@ -621,13 +671,23 @@
     {
       "id": "03-BOLL-0003",
       "taboo_word": "Sidharth Malhotra",
-      "hint_words": ["Shershaah", "Student of the Year", "Hasee Toh Phasee", "Kiara Advani"],
+      "hint_words": [
+        "Shershaah",
+        "Student of the Year",
+        "Hasee Toh Phasee",
+        "Kiara Advani"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "03-BOLL-0004",
       "taboo_word": "Nawazuddin Siddiqui",
-      "hint_words": ["Gangs of Wasseypur", "Theater Actor", "Sacred Games", "Muslim"],
+      "hint_words": [
+        "Gangs of Wasseypur",
+        "Theater Actor",
+        "Sacred Games",
+        "Muslim"
+      ],
       "category": "Bollywood"
     },
     {
@@ -639,13 +699,23 @@
     {
       "id": "03-BOLL-0006",
       "taboo_word": "Madhuri Dixit",
-      "hint_words": ["Devdas", "Hum Aapke Hain Koun", "Dancer", "Bhool Bhulaiyaa 3"],
+      "hint_words": [
+        "Devdas",
+        "Hum Aapke Hain Koun",
+        "Dancer",
+        "Bhool Bhulaiyaa 3"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "03-BOLL-0007",
       "taboo_word": "Vidya Balan",
-      "hint_words": ["Ami Je Tomar", "The Dirty Picture", "Award Winning", "TV actress"],
+      "hint_words": [
+        "Ami Je Tomar",
+        "The Dirty Picture",
+        "Award Winning",
+        "TV actress"
+      ],
       "category": "Bollywood"
     },
     {
@@ -663,13 +733,23 @@
     {
       "id": "03-BOLL-0010",
       "taboo_word": "Disha Patani",
-      "hint_words": ["Baaghi 2", "Kalki 2898 AD", "Baaghi 2", "M.S. Dhoni: The Untold Story"],
+      "hint_words": [
+        "Baaghi 2",
+        "Kalki 2898 AD",
+        "Baaghi 2",
+        "M.S. Dhoni: The Untold Story"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "03-BOLL-0011",
       "taboo_word": "Devdas",
-      "hint_words": ["Drunkard", "Shah Rukh Khan", "Aishwarya Rai", "Madhuri Dixit"],
+      "hint_words": [
+        "Drunkard",
+        "Shah Rukh Khan",
+        "Aishwarya Rai",
+        "Madhuri Dixit"
+      ],
       "category": "Bollywood"
     },
     {
@@ -681,7 +761,12 @@
     {
       "id": "03-BOLL-0013",
       "taboo_word": "Barfi!",
-      "hint_words": ["Ranbir Kapoor", "Deaf", "Priyanka Chopra", "Heartwarming"],
+      "hint_words": [
+        "Ranbir Kapoor",
+        "Deaf",
+        "Priyanka Chopra",
+        "Heartwarming"
+      ],
       "category": "Bollywood"
     },
     {
@@ -705,7 +790,12 @@
     {
       "id": "03-BOLL-0017",
       "taboo_word": "Anurag Kashyap",
-      "hint_words": ["Director", "Gangs of Wasseypur", "Maharaja", "Bombay Velvet"],
+      "hint_words": [
+        "Director",
+        "Gangs of Wasseypur",
+        "Maharaja",
+        "Bombay Velvet"
+      ],
       "category": "Bollywood"
     },
     {
@@ -747,7 +837,12 @@
     {
       "id": "03-ARTS-0004",
       "taboo_word": "Andy Warhol",
-      "hint_words": ["Pop Art", "Marilyn Monroe", "Campbell’s Soup", "New York"],
+      "hint_words": [
+        "Pop Art",
+        "Marilyn Monroe",
+        "Campbell’s Soup",
+        "New York"
+      ],
       "category": "Arts"
     },
     {
@@ -975,7 +1070,12 @@
     {
       "id": "03-MUSI-0002",
       "taboo_word": "Celine Dion",
-      "hint_words": ["Titanic", "My Heart Will Go On", "Canada", "Powerful Voice"],
+      "hint_words": [
+        "Titanic",
+        "My Heart Will Go On",
+        "Canada",
+        "Powerful Voice"
+      ],
       "category": "Music"
     },
     {
@@ -993,13 +1093,23 @@
     {
       "id": "03-MUSI-0005",
       "taboo_word": "The Beach Boys",
-      "hint_words": ["Surf Rock", "California", "Good Vibrations", "Pet Sounds"],
+      "hint_words": [
+        "Surf Rock",
+        "California",
+        "Good Vibrations",
+        "Pet Sounds"
+      ],
       "category": "Music"
     },
     {
       "id": "03-MUSI-0006",
       "taboo_word": "The Who",
-      "hint_words": ["My Generation", "Tommy", "Roger Daltrey", "Pinball Wizard"],
+      "hint_words": [
+        "My Generation",
+        "Tommy",
+        "Roger Daltrey",
+        "Pinball Wizard"
+      ],
       "category": "Music"
     },
     {
@@ -1011,7 +1121,12 @@
     {
       "id": "03-MUSI-0008",
       "taboo_word": "Metallica",
-      "hint_words": ["Heavy Metal", "Enter Sandman", "Master of Puppets", "James Hetfield"],
+      "hint_words": [
+        "Heavy Metal",
+        "Enter Sandman",
+        "Master of Puppets",
+        "James Hetfield"
+      ],
       "category": "Music"
     },
     {
@@ -1035,7 +1150,12 @@
     {
       "id": "03-MUSI-0012",
       "taboo_word": "Jay-Z",
-      "hint_words": ["Empire State of Mind", "Beyoncé", "99 Problems", "Brooklyn"],
+      "hint_words": [
+        "Empire State of Mind",
+        "Beyoncé",
+        "99 Problems",
+        "Brooklyn"
+      ],
       "category": "Music"
     },
     {
@@ -1047,7 +1167,12 @@
     {
       "id": "03-MUSI-0014",
       "taboo_word": "Another Brick in the Wall",
-      "hint_words": ["Pink Floyd", "We Don't Need No Education", "The Wall", "Rock"],
+      "hint_words": [
+        "Pink Floyd",
+        "We Don't Need No Education",
+        "The Wall",
+        "Rock"
+      ],
       "category": "Music"
     },
     {
@@ -1089,7 +1214,12 @@
     {
       "id": "03-SCIE-0001",
       "taboo_word": "Stephen Hawking",
-      "hint_words": ["Black Holes", "Theoretical Physicist", "Wheelchair", "Cosmology"],
+      "hint_words": [
+        "Black Holes",
+        "Theoretical Physicist",
+        "Wheelchair",
+        "Cosmology"
+      ],
       "category": "Science"
     },
     {

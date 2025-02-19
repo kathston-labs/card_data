@@ -147,20 +147,20 @@
     },
     {
       "id": "15-GEOG-0005",
-      "taboo_word": "Po River",
-      "hint_words": ["Italy", "Longest", "Valley", "Flow"],
+      "taboo_word": "Indonesia",
+      "hint_words": ["Asia", "Jakarta", "Bali", "Muslim"],
       "category": "Geography"
     },
     {
       "id": "15-GEOG-0006",
-      "taboo_word": "Mount Ararat",
-      "hint_words": ["Turkey", "Tallest", "Bible", "Snow"],
+      "taboo_word": "Marseille",
+      "hint_words": ["France", "Port", "Provence", "Tourism"],
       "category": "Geography"
     },
     {
       "id": "15-GEOG-0007",
-      "taboo_word": "Sarajevo",
-      "hint_words": ["Bosnia", "Capital", "History", "War"],
+      "taboo_word": "Sao Paulo",
+      "hint_words": ["Brazil", "Latin America", "Sampa", "Large City"],
       "category": "Geography"
     },
     {
@@ -171,8 +171,8 @@
     },
     {
       "id": "15-GEOG-0009",
-      "taboo_word": "Madeira",
-      "hint_words": ["Portugal", "Island", "Wine", "Atlantic"],
+      "taboo_word": "Malaysia",
+      "hint_words": ["Asia", "Kuala Lumpur", "Diverse", "Borneo"],
       "category": "Geography"
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "id": "15-GEOG-0011",
-      "taboo_word": "Lake Winnipeg",
-      "hint_words": ["Canada", "Freshwater", "Prairie", "Fishing"],
+      "taboo_word": "Kolkata",
+      "hint_words": ["India", "Bengal", "East", "Tagore"],
       "category": "Geography"
     },
     {
@@ -195,14 +195,14 @@
     },
     {
       "id": "15-GEOG-0013",
-      "taboo_word": "Rub' al Khali",
-      "hint_words": ["Arabian Peninsula", "Desert", "Sand", "Dunes"],
+      "taboo_word": "Quebec",
+      "hint_words": ["Canada", "French", "Montreal", "Province"],
       "category": "Geography"
     },
     {
       "id": "15-GEOG-0014",
-      "taboo_word": "Drakensberg Mountains",
-      "hint_words": ["South Africa", "Range", "Tallest", "Hiking"],
+      "taboo_word": "Durban",
+      "hint_words": ["South Africa", "Beaches", "Indian Ocean", "Tourism"],
       "category": "Geography"
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "id": "15-GEOG-0017",
-      "taboo_word": "Altai Mountains",
-      "hint_words": ["Asia", "Russia", "Mongolia", "Range"],
+      "taboo_word": "Afghanistan",
+      "hint_words": ["Asia", "Kabul", "Mountainous", "War on Terror"],
       "category": "Geography"
     },
     {
@@ -231,8 +231,8 @@
     },
     {
       "id": "15-GEOG-0019",
-      "taboo_word": "Teotihuacan",
-      "hint_words": ["Mexico", "Pyramids", "Ancient", "Tourism"],
+      "taboo_word": "New Delhi",
+      "hint_words": ["India", "Capital", "India Gate", "High Population"],
       "category": "Geography"
     },
     {
@@ -538,7 +538,12 @@
     {
       "id": "15-HOLL-0010",
       "taboo_word": "Tyra Banks",
-      "hint_words": ["America’s Next Top Model", "Supermodel", "Host", "Businesswoman"],
+      "hint_words": [
+        "America’s Next Top Model",
+        "Supermodel",
+        "Host",
+        "Businesswoman"
+      ],
       "category": "Hollywood"
     },
     {
@@ -610,13 +615,23 @@
     {
       "id": "15-BOLL-0002",
       "taboo_word": "Irrfan Khan",
-      "hint_words": ["Paan Singh Tomar", "The Lunchbox", "International Star", "Talented"],
+      "hint_words": [
+        "Paan Singh Tomar",
+        "The Lunchbox",
+        "International Star",
+        "Talented"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "15-BOLL-0003",
       "taboo_word": "Richa Chadha",
-      "hint_words": ["Gangs of Wasseypur", "Fukrey", "Strong Roles", "Talented Actress"],
+      "hint_words": [
+        "Gangs of Wasseypur",
+        "Fukrey",
+        "Strong Roles",
+        "Talented Actress"
+      ],
       "category": "Bollywood"
     },
     {
@@ -628,7 +643,12 @@
     {
       "id": "15-BOLL-0005",
       "taboo_word": "War",
-      "hint_words": ["Hrithik Roshan", "Tiger Shroff", "Action Thriller", "Spy"],
+      "hint_words": [
+        "Hrithik Roshan",
+        "Tiger Shroff",
+        "Action Thriller",
+        "Spy"
+      ],
       "category": "Bollywood"
     },
     {
@@ -640,25 +660,45 @@
     {
       "id": "15-BOLL-0007",
       "taboo_word": "Ek Villain",
-      "hint_words": ["Sidharth Malhotra", "Riteish Deshmukh", "Romantic Thriller", "Mohit Suri"],
+      "hint_words": [
+        "Sidharth Malhotra",
+        "Riteish Deshmukh",
+        "Romantic Thriller",
+        "Mohit Suri"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "15-BOLL-0008",
       "taboo_word": "Gangaajal",
-      "hint_words": ["Ajay Devgn", "Corrupt Police", "Crime Drama", "Realistic"],
+      "hint_words": [
+        "Ajay Devgn",
+        "Corrupt Police",
+        "Crime Drama",
+        "Realistic"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "15-BOLL-0009",
       "taboo_word": "Love Aaj Kal",
-      "hint_words": ["Saif Ali Khan", "Deepika Padukone", "Imtiaz Ali", "Time Travel"],
+      "hint_words": [
+        "Saif Ali Khan",
+        "Deepika Padukone",
+        "Imtiaz Ali",
+        "Time Travel"
+      ],
       "category": "Bollywood"
     },
     {
       "id": "15-BOLL-0010",
       "taboo_word": "Race",
-      "hint_words": ["Saif Ali Khan", "Betrayal", "Action Thriller", "Franchise"],
+      "hint_words": [
+        "Saif Ali Khan",
+        "Betrayal",
+        "Action Thriller",
+        "Franchise"
+      ],
       "category": "Bollywood"
     },
     {
@@ -694,7 +734,12 @@
     {
       "id": "15-BOLL-0016",
       "taboo_word": "Kick",
-      "hint_words": ["Salman Khan", "Action", "Superhit", "Jacqueline Fernandez"],
+      "hint_words": [
+        "Salman Khan",
+        "Action",
+        "Superhit",
+        "Jacqueline Fernandez"
+      ],
       "category": "Bollywood"
     },
     {
@@ -712,7 +757,12 @@
     {
       "id": "15-BOLL-0019",
       "taboo_word": "Rowdy Rathore",
-      "hint_words": ["Akshay Kumar", "Action", "Double Role", "Mass Entertainer"],
+      "hint_words": [
+        "Akshay Kumar",
+        "Action",
+        "Double Role",
+        "Mass Entertainer"
+      ],
       "category": "Bollywood"
     },
     {
@@ -964,7 +1014,12 @@
     {
       "id": "15-MUSI-0001",
       "taboo_word": "Demi Lovato",
-      "hint_words": ["Skyscraper", "Cool for the Summer", "Heart Attack", "Disney"],
+      "hint_words": [
+        "Skyscraper",
+        "Cool for the Summer",
+        "Heart Attack",
+        "Disney"
+      ],
       "category": "Music"
     },
     {
@@ -976,19 +1031,34 @@
     {
       "id": "15-MUSI-0003",
       "taboo_word": "Gloria Estefan",
-      "hint_words": ["Conga", "Rhythm is Gonna Get You", "Miami Sound Machine", "Latin Pop"],
+      "hint_words": [
+        "Conga",
+        "Rhythm is Gonna Get You",
+        "Miami Sound Machine",
+        "Latin Pop"
+      ],
       "category": "Music"
     },
     {
       "id": "15-MUSI-0004",
       "taboo_word": "Gioachino Rossini",
-      "hint_words": ["The Barber of Seville", "Classical", "Italian", "Composer"],
+      "hint_words": [
+        "The Barber of Seville",
+        "Classical",
+        "Italian",
+        "Composer"
+      ],
       "category": "Music"
     },
     {
       "id": "15-MUSI-0005",
       "taboo_word": "The Doobie Brothers",
-      "hint_words": ["Listen to the Music", "70s Rock", "Long Train Runnin'", "Michael McDonald"],
+      "hint_words": [
+        "Listen to the Music",
+        "70s Rock",
+        "Long Train Runnin'",
+        "Michael McDonald"
+      ],
       "category": "Music"
     },
     {
@@ -1024,7 +1094,12 @@
     {
       "id": "15-MUSI-0011",
       "taboo_word": "Ska",
-      "hint_words": ["Jamaican", "Offbeat Rhythm", "Reggae Influence", "Upbeat"],
+      "hint_words": [
+        "Jamaican",
+        "Offbeat Rhythm",
+        "Reggae Influence",
+        "Upbeat"
+      ],
       "category": "Music"
     },
     {
@@ -1042,7 +1117,12 @@
     {
       "id": "15-MUSI-0014",
       "taboo_word": "I Will Always Love You",
-      "hint_words": ["Whitney Houston", "The Bodyguard", "Power Ballad", "Classic"],
+      "hint_words": [
+        "Whitney Houston",
+        "The Bodyguard",
+        "Power Ballad",
+        "Classic"
+      ],
       "category": "Music"
     },
     {

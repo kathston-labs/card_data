@@ -183,14 +183,14 @@
     },
     {
       "id": "06-GEOG-0011",
-      "taboo_word": "Lake Titicaca",
-      "hint_words": ["South America", "Peru", "Bolivia", "Highest"],
+      "taboo_word": "Lhasa",
+      "hint_words": ["Tibet", "Dalai Lama", "China", "Potala Palace"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0012",
-      "taboo_word": "Mali",
-      "hint_words": ["Africa", "Timbuktu", "Sahara", "Country"],
+      "taboo_word": "Maine",
+      "hint_words": ["East Coast", "New England", "Lobster", "Acadia"],
       "category": "Geography"
     },
     {
@@ -201,38 +201,38 @@
     },
     {
       "id": "06-GEOG-0014",
-      "taboo_word": "Table Mountain",
-      "hint_words": ["South Africa", "Cape Town", "Flat", "Landmark"],
+      "taboo_word": "Tel Aviv",
+      "hint_words": ["Israel", "Tech Hub", "Beaches", "Modern"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0015",
-      "taboo_word": "Buenos Aires",
-      "hint_words": ["Argentina", "Tango", "Capital", "South America"],
+      "taboo_word": "Bosnia",
+      "hint_words": ["Europe", "Sarajevo", "War", "Mountainous"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0016",
-      "taboo_word": "Dubai Marina",
-      "hint_words": ["UAE", "Luxury", "Skyscrapers", "Coastline"],
+      "taboo_word": "Doha",
+      "hint_words": ["Qatar", "Skyscrapers", "Desert", "Coastline"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0017",
-      "taboo_word": "Caucasus Mountains",
-      "hint_words": ["Russia", "Europe-Asia", "Range", "Tall"],
+      "taboo_word": "California",
+      "hint_words": ["West Coast", "Hollywood", "San Francisco", "Los Angeles"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0018",
-      "taboo_word": "Baltic Sea",
-      "hint_words": ["Europe", "Water", "Scandinavia", "Cold"],
+      "taboo_word": "Brussels",
+      "hint_words": ["Belgium", "Europe", "Chocolate", "Beer"],
       "category": "Geography"
     },
     {
       "id": "06-GEOG-0019",
-      "taboo_word": "Petronas Towers",
-      "hint_words": ["Malaysia", "Tall", "Kuala Lumpur", "Landmark"],
+      "taboo_word": "Portland",
+      "hint_words": ["Oregon", "Rose", "Bikes", "Hipster"],
       "category": "Geography"
     },
     {
@@ -322,13 +322,23 @@
     {
       "id": "06-ASTR-0014",
       "taboo_word": "Large Magellanic Cloud",
-      "hint_words": ["Satellite galaxy", "Southern sky", "Magellanic", "Neighbor"],
+      "hint_words": [
+        "Satellite galaxy",
+        "Southern sky",
+        "Magellanic",
+        "Neighbor"
+      ],
       "category": "Astronomy"
     },
     {
       "id": "06-ASTR-0015",
       "taboo_word": "Eagle Nebula",
-      "hint_words": ["Nebula", "Pillars of Creation", "Star formation", "Hubble"],
+      "hint_words": [
+        "Nebula",
+        "Pillars of Creation",
+        "Star formation",
+        "Hubble"
+      ],
       "category": "Astronomy"
     },
     {
@@ -370,7 +380,12 @@
     {
       "id": "06-HIST-0002",
       "taboo_word": "Theodore Roosevelt",
-      "hint_words": ["President", "Rough Riders", "Panama Canal", "Progressive"],
+      "hint_words": [
+        "President",
+        "Rough Riders",
+        "Panama Canal",
+        "Progressive"
+      ],
       "category": "History"
     },
     {
@@ -490,7 +505,12 @@
     {
       "id": "06-HOLL-0002",
       "taboo_word": "Chris Evans",
-      "hint_words": ["Captain America", "Marvel", "Fantastic Four", "The Gray Man"],
+      "hint_words": [
+        "Captain America",
+        "Marvel",
+        "Fantastic Four",
+        "The Gray Man"
+      ],
       "category": "Hollywood"
     },
     {
@@ -520,7 +540,12 @@
     {
       "id": "06-HOLL-0007",
       "taboo_word": "Jessica Chastain",
-      "hint_words": ["Zero Dark Thirty", "Red Hair", "Oscar Winner", "Interstellar"],
+      "hint_words": [
+        "Zero Dark Thirty",
+        "Red Hair",
+        "Oscar Winner",
+        "Interstellar"
+      ],
       "category": "Hollywood"
     },
     {
@@ -532,7 +557,12 @@
     {
       "id": "06-HOLL-0009",
       "taboo_word": "Michelle Williams",
-      "hint_words": ["Dawson’s Creek", "The Greatest Showman", "Marilyn Monroe", "Actress"],
+      "hint_words": [
+        "Dawson’s Creek",
+        "The Greatest Showman",
+        "Marilyn Monroe",
+        "Actress"
+      ],
       "category": "Hollywood"
     },
     {
@@ -556,7 +586,12 @@
     {
       "id": "06-HOLL-0013",
       "taboo_word": "Interstellar",
-      "hint_words": ["Space", "Matthew McConaughey", "Time Travel", "Christopher Nolan"],
+      "hint_words": [
+        "Space",
+        "Matthew McConaughey",
+        "Time Travel",
+        "Christopher Nolan"
+      ],
       "category": "Hollywood"
     },
     {
@@ -580,7 +615,12 @@
     {
       "id": "06-HOLL-0017",
       "taboo_word": "Kathryn Bigelow",
-      "hint_words": ["The Hurt Locker", "Oscar", "Female Director", "War Films"],
+      "hint_words": [
+        "The Hurt Locker",
+        "Oscar",
+        "Female Director",
+        "War Films"
+      ],
       "category": "Hollywood"
     },
     {
@@ -598,7 +638,12 @@
     {
       "id": "06-HOLL-0020",
       "taboo_word": "Hugh Grant",
-      "hint_words": ["British", "Romantic Comedies", "Notting Hill", "Four Weddings"],
+      "hint_words": [
+        "British",
+        "Romantic Comedies",
+        "Notting Hill",
+        "Four Weddings"
+      ],
       "category": "Hollywood"
     },
     {
@@ -652,7 +697,12 @@
     {
       "id": "06-BOLL-0009",
       "taboo_word": "Bhumi Pednekar",
-      "hint_words": ["Dum Laga Ke Haisha", "Actress", "Body Transformation", "Badhai Ho"],
+      "hint_words": [
+        "Dum Laga Ke Haisha",
+        "Actress",
+        "Body Transformation",
+        "Badhai Ho"
+      ],
       "category": "Bollywood"
     },
     {
@@ -736,7 +786,12 @@
     {
       "id": "06-ARTS-0003",
       "taboo_word": "Raphael",
-      "hint_words": ["Renaissance", "The School of Athens", "Painter", "Italian"],
+      "hint_words": [
+        "Renaissance",
+        "The School of Athens",
+        "Painter",
+        "Italian"
+      ],
       "category": "Arts"
     },
     {
@@ -754,7 +809,12 @@
     {
       "id": "06-ARTS-0006",
       "taboo_word": "The Little Mermaid",
-      "hint_words": ["Copenhagen", "Statue", "Hans Christian Andersen", "Denmark"],
+      "hint_words": [
+        "Copenhagen",
+        "Statue",
+        "Hans Christian Andersen",
+        "Denmark"
+      ],
       "category": "Arts"
     },
     {
@@ -964,7 +1024,12 @@
     {
       "id": "06-MUSI-0001",
       "taboo_word": "Bruno Mars",
-      "hint_words": ["Uptown Funk", "24K Magic", "Hawaii", "Versace on the Floor"],
+      "hint_words": [
+        "Uptown Funk",
+        "24K Magic",
+        "Hawaii",
+        "Versace on the Floor"
+      ],
       "category": "Music"
     },
     {
@@ -999,19 +1064,34 @@
     {
       "id": "06-MUSI-0006",
       "taboo_word": "Guns N' Roses",
-      "hint_words": ["Welcome to the Jungle", "Slash", "Axl Rose", "Paradise City"],
+      "hint_words": [
+        "Welcome to the Jungle",
+        "Slash",
+        "Axl Rose",
+        "Paradise City"
+      ],
       "category": "Music"
     },
     {
       "id": "06-MUSI-0007",
       "taboo_word": "Def Leppard",
-      "hint_words": ["Pour Some Sugar on Me", "British Rock", "Hysteria", "80s"],
+      "hint_words": [
+        "Pour Some Sugar on Me",
+        "British Rock",
+        "Hysteria",
+        "80s"
+      ],
       "category": "Music"
     },
     {
       "id": "06-MUSI-0008",
       "taboo_word": "Green Day",
-      "hint_words": ["American Idiot", "Punk Rock", "Billie Joe Armstrong", "Basket Case"],
+      "hint_words": [
+        "American Idiot",
+        "Punk Rock",
+        "Billie Joe Armstrong",
+        "Basket Case"
+      ],
       "category": "Music"
     },
     {
@@ -1041,7 +1121,12 @@
     {
       "id": "06-MUSI-0013",
       "taboo_word": "Beat It",
-      "hint_words": ["Michael Jackson", "Guitar Solo", "1983", "Thriller Album"],
+      "hint_words": [
+        "Michael Jackson",
+        "Guitar Solo",
+        "1983",
+        "Thriller Album"
+      ],
       "category": "Music"
     },
     {
@@ -1155,7 +1240,12 @@
     {
       "id": "06-SCIE-0012",
       "taboo_word": "Lymph Nodes",
-      "hint_words": ["Immune System", "Swelling", "White Blood Cells", "Filter"],
+      "hint_words": [
+        "Immune System",
+        "Swelling",
+        "White Blood Cells",
+        "Filter"
+      ],
       "category": "Science"
     },
     {
